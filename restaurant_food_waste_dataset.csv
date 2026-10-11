@@ -1,0 +1,1201 @@
+date,day_of_week,month,is_weekend,meal_type,restaurant_type,menu_category,weather_temperature_c,rainfall_mm,special_event,restaurant_capacity,meals_prepared,meals_sold,food_waste_meals,ingredient_waste_kg,estimated_cost_per_meal_inr,estimated_waste_cost_inr
+2025-02-02,Sunday,2,1,Dinner,Casual Dining,Chinese,37.2,3.6,Festival,75,70,70,0,0.0,127.12,0.0
+2025-10-10,Friday,10,0,Dinner,Quick Service,North Indian,23.7,12.3,None,125,65,31,34,3.46,92.26,3136.84
+2025-08-27,Wednesday,8,0,Lunch,Cafe,Desserts,28.8,3.1,None,50,61,31,30,9.32,51.67,1550.1
+2025-06-10,Tuesday,6,0,Lunch,Family Restaurant,Desserts,19.0,0.0,None,75,80,46,34,16.4,85.7,2913.8
+2025-06-08,Sunday,6,1,Lunch,Quick Service,South Indian,25.2,10.1,None,50,80,64,16,7.13,77.61,1241.76
+2025-11-10,Monday,11,0,Breakfast,Quick Service,Snacks,24.1,0.0,Festival,75,35,35,0,0.0,138.63,0.0
+2025-02-01,Saturday,2,1,Dinner,Family Restaurant,Desserts,25.6,8.6,None,150,76,61,15,4.96,110.67,1660.05
+2025-09-12,Friday,9,0,Lunch,Cafe,Chinese,29.1,2.6,None,75,44,44,0,0.0,113.53,0.0
+2025-03-15,Saturday,3,1,Lunch,Quick Service,South Indian,42.5,1.5,None,50,65,65,0,0.0,94.0,0.0
+2025-02-04,Tuesday,2,0,Lunch,Family Restaurant,South Indian,25.1,1.4,None,75,80,66,14,3.31,112.39,1573.46
+2025-07-12,Saturday,7,1,Lunch,Casual Dining,Snacks,24.8,2.1,Local Event,50,81,61,20,6.08,113.64,2272.8
+2025-12-23,Tuesday,12,0,Lunch,Casual Dining,Desserts,28.2,1.0,Promotion,125,67,56,11,3.38,51.3,564.3
+2025-09-26,Friday,9,0,Dinner,Casual Dining,South Indian,33.6,4.9,Local Event,200,45,45,0,0.0,66.15,0.0
+2025-10-05,Sunday,10,1,Lunch,Cafe,Chinese,18.9,1.1,Festival,75,60,53,7,2.56,46.23,323.61
+2025-09-19,Friday,9,0,Dinner,Quick Service,Chinese,26.8,2.7,None,150,38,38,0,0.0,93.43,0.0
+2025-10-14,Tuesday,10,0,Lunch,Casual Dining,North Indian,34.1,0.0,Festival,100,79,74,5,1.61,128.2,641.0
+2025-07-07,Monday,7,0,Lunch,Casual Dining,Snacks,20.7,2.6,None,50,45,45,0,0.0,102.91,0.0
+2025-02-16,Sunday,2,1,Breakfast,Quick Service,Desserts,24.6,0.9,None,150,43,21,22,4.97,92.52,2035.44
+2025-11-03,Monday,11,0,Lunch,Family Restaurant,North Indian,23.4,8.0,None,75,57,51,6,1.29,132.97,797.82
+2025-06-14,Saturday,6,1,Breakfast,Quick Service,South Indian,28.4,1.6,None,125,31,31,0,0.0,61.36,0.0
+2025-07-02,Wednesday,7,0,Dinner,Family Restaurant,North Indian,33.1,6.8,Promotion,125,72,69,3,0.89,52.09,156.27
+2025-05-16,Friday,5,0,Dinner,Quick Service,North Indian,33.7,6.0,None,125,55,55,0,0.0,132.14,0.0
+2025-03-08,Saturday,3,1,Lunch,Casual Dining,Snacks,23.6,6.2,Promotion,50,85,85,0,0.0,130.76,0.0
+2025-12-05,Friday,12,0,Lunch,Quick Service,Chinese,29.6,1.8,None,75,52,51,1,0.23,109.88,109.88
+2025-10-13,Monday,10,0,Dinner,Casual Dining,South Indian,22.1,2.9,None,150,40,36,4,1.74,68.37,273.48
+2025-08-24,Sunday,8,1,Breakfast,Cafe,North Indian,33.4,4.7,Local Event,200,16,16,0,0.0,137.13,0.0
+2025-05-27,Tuesday,5,0,Dinner,Quick Service,Snacks,29.3,3.1,None,50,42,42,0,0.0,117.71,0.0
+2025-10-28,Tuesday,10,0,Lunch,Cafe,Chinese,21.8,1.6,None,100,56,36,20,7.92,109.02,2180.4
+2025-07-19,Saturday,7,1,Breakfast,Family Restaurant,Chinese,31.7,0.0,None,200,58,34,24,6.08,66.18,1588.32
+2025-06-11,Wednesday,6,0,Breakfast,Casual Dining,North Indian,34.8,2.7,Promotion,75,37,9,28,9.11,93.74,2624.72
+2025-06-14,Saturday,6,1,Dinner,Quick Service,North Indian,33.2,0.0,Local Event,100,68,68,0,0.0,123.14,0.0
+2025-03-24,Monday,3,0,Lunch,Cafe,South Indian,24.0,0.0,None,200,46,41,5,1.64,126.72,633.6
+2025-02-03,Monday,2,0,Dinner,Quick Service,South Indian,33.7,6.1,None,200,62,60,2,0.69,98.34,196.68
+2025-07-22,Tuesday,7,0,Breakfast,Quick Service,South Indian,23.8,3.7,None,125,26,24,2,0.45,94.67,189.34
+2025-11-21,Friday,11,0,Breakfast,Casual Dining,Snacks,26.7,6.2,None,150,27,9,18,6.46,111.28,2003.04
+2025-01-24,Friday,1,0,Dinner,Casual Dining,South Indian,21.9,0.3,None,125,49,41,8,2.29,95.18,761.44
+2025-11-10,Monday,11,0,Breakfast,Quick Service,Chinese,27.8,8.8,None,75,23,5,18,6.2,84.68,1524.24
+2025-10-30,Thursday,10,0,Breakfast,Family Restaurant,Desserts,21.0,0.0,None,200,25,13,12,4.61,53.11,637.32
+2025-04-12,Saturday,4,1,Lunch,Cafe,Snacks,26.6,0.0,None,50,57,54,3,1.1,56.97,170.91
+2025-08-19,Tuesday,8,0,Dinner,Family Restaurant,Chinese,30.6,8.6,None,50,50,48,2,0.69,117.23,234.46
+2025-03-02,Sunday,3,1,Lunch,Casual Dining,South Indian,33.7,3.4,None,125,71,69,2,0.73,47.34,94.68
+2025-10-04,Saturday,10,1,Breakfast,Casual Dining,Chinese,21.9,6.3,None,200,29,10,19,7.0,49.97,949.43
+2025-09-13,Saturday,9,1,Dinner,Family Restaurant,Desserts,32.8,3.8,Local Event,150,75,66,9,3.82,130.94,1178.46
+2025-05-10,Saturday,5,1,Dinner,Quick Service,North Indian,30.3,0.6,None,150,75,56,19,6.03,111.88,2125.72
+2025-01-25,Saturday,1,1,Dinner,Casual Dining,Desserts,29.2,0.0,Promotion,100,68,68,0,0.0,45.4,0.0
+2025-12-21,Sunday,12,1,Dinner,Family Restaurant,Snacks,28.3,0.0,None,100,73,66,7,2.7,74.64,522.48
+2025-06-12,Thursday,6,0,Dinner,Casual Dining,North Indian,27.9,15.7,None,100,37,37,0,0.0,117.52,0.0
+2025-11-22,Saturday,11,1,Lunch,Family Restaurant,South Indian,27.9,0.0,None,75,71,71,0,0.0,84.67,0.0
+2025-09-05,Friday,9,0,Lunch,Casual Dining,South Indian,22.9,11.9,None,100,53,44,9,3.19,89.54,805.86
+2025-10-12,Sunday,10,1,Dinner,Casual Dining,North Indian,22.9,3.1,None,50,67,58,9,2.75,88.59,797.31
+2025-10-05,Sunday,10,1,Dinner,Family Restaurant,North Indian,31.8,3.9,Festival,75,72,71,1,0.24,64.2,64.2
+2025-03-13,Thursday,3,0,Dinner,Quick Service,Snacks,27.3,3.6,Promotion,200,67,53,14,4.97,113.53,1589.42
+2025-05-13,Tuesday,5,0,Lunch,Family Restaurant,Chinese,20.4,5.4,None,150,79,69,10,4.2,54.79,547.9
+2025-06-20,Friday,6,0,Lunch,Quick Service,Chinese,39.1,0.0,None,50,61,48,13,2.68,93.19,1211.47
+2025-07-01,Tuesday,7,0,Lunch,Casual Dining,Snacks,41.7,0.0,Local Event,75,66,66,0,0.0,61.15,0.0
+2025-01-16,Thursday,1,0,Lunch,Cafe,Snacks,27.0,0.6,None,75,49,41,8,1.14,49.42,395.36
+2025-07-19,Saturday,7,1,Lunch,Cafe,Snacks,19.3,4.9,None,75,52,52,0,0.0,58.61,0.0
+2025-02-26,Wednesday,2,0,Dinner,Family Restaurant,Desserts,29.4,0.0,Local Event,150,80,63,17,7.63,127.59,2169.03
+2025-09-29,Monday,9,0,Lunch,Family Restaurant,North Indian,24.1,9.0,None,200,66,58,8,2.38,61.73,493.84
+2025-09-07,Sunday,9,1,Breakfast,Cafe,Desserts,24.6,2.1,None,150,37,26,11,3.59,71.45,785.95
+2025-12-03,Wednesday,12,0,Lunch,Cafe,Chinese,21.4,0.0,None,100,42,33,9,3.36,58.12,523.08
+2025-09-29,Monday,9,0,Lunch,Casual Dining,South Indian,28.4,3.3,None,50,49,43,6,1.2,114.88,689.28
+2025-05-14,Wednesday,5,0,Dinner,Family Restaurant,South Indian,35.1,4.8,None,50,61,60,1,0.33,87.32,87.32
+2025-12-20,Saturday,12,1,Lunch,Cafe,South Indian,19.5,5.2,Local Event,150,48,48,0,0.0,134.65,0.0
+2025-05-30,Friday,5,0,Lunch,Quick Service,Desserts,36.0,8.6,None,150,69,56,13,5.85,108.11,1405.43
+2025-04-29,Tuesday,4,0,Lunch,Family Restaurant,South Indian,43.0,0.0,Local Event,125,82,78,4,0.93,95.48,381.92
+2025-11-27,Thursday,11,0,Lunch,Casual Dining,Desserts,26.4,8.7,Local Event,125,56,56,0,0.0,107.38,0.0
+2025-05-16,Friday,5,0,Breakfast,Casual Dining,Snacks,30.8,9.4,Local Event,200,38,25,13,3.32,48.84,634.92
+2025-01-28,Tuesday,1,0,Dinner,Casual Dining,Chinese,28.3,0.0,None,150,42,40,2,0.5,135.31,270.62
+2025-06-21,Saturday,6,1,Dinner,Family Restaurant,Desserts,34.1,0.0,None,50,76,51,25,9.97,135.86,3396.5
+2025-10-18,Saturday,10,1,Lunch,Casual Dining,Desserts,16.3,6.6,None,100,56,53,3,0.97,71.23,213.69
+2025-03-11,Tuesday,3,0,Lunch,Casual Dining,Desserts,33.3,1.1,None,50,69,60,9,2.53,104.69,942.21
+2025-06-18,Wednesday,6,0,Breakfast,Quick Service,Chinese,29.0,10.8,Promotion,100,34,34,0,0.0,64.18,0.0
+2025-02-17,Monday,2,0,Lunch,Casual Dining,North Indian,40.2,13.6,None,125,63,54,9,2.53,97.01,873.09
+2025-09-08,Monday,9,0,Lunch,Quick Service,South Indian,24.7,0.0,Festival,75,79,79,0,0.0,118.22,0.0
+2025-06-23,Monday,6,0,Dinner,Cafe,Desserts,39.3,0.0,None,50,48,43,5,1.16,134.28,671.4
+2025-05-01,Thursday,5,0,Breakfast,Family Restaurant,Desserts,26.9,3.1,None,100,37,37,0,0.0,77.23,0.0
+2025-03-24,Monday,3,0,Dinner,Casual Dining,Chinese,35.4,0.0,None,125,42,42,0,0.0,110.88,0.0
+2025-07-26,Saturday,7,1,Lunch,Family Restaurant,South Indian,30.6,0.0,Local Event,150,96,95,1,0.27,113.06,113.06
+2025-09-02,Tuesday,9,0,Dinner,Family Restaurant,Desserts,21.2,0.0,None,50,54,47,7,2.32,66.01,462.07
+2025-12-10,Wednesday,12,0,Lunch,Quick Service,North Indian,27.9,17.7,None,75,64,42,22,7.41,104.76,2304.72
+2025-06-09,Monday,6,0,Lunch,Cafe,Chinese,37.1,3.8,Local Event,150,59,54,5,1.41,107.27,536.35
+2025-02-28,Friday,2,0,Lunch,Cafe,Snacks,29.4,0.4,None,150,42,42,0,0.0,117.59,0.0
+2025-10-31,Friday,10,0,Dinner,Casual Dining,South Indian,16.5,0.0,None,200,39,39,0,0.0,139.99,0.0
+2025-08-18,Monday,8,0,Lunch,Family Restaurant,South Indian,26.9,0.0,None,150,71,70,1,0.47,48.82,48.82
+2025-09-13,Saturday,9,1,Breakfast,Casual Dining,South Indian,21.0,0.6,None,200,31,31,0,0.0,64.22,0.0
+2025-02-05,Wednesday,2,0,Lunch,Quick Service,Desserts,29.3,0.4,None,125,71,63,8,2.05,58.78,470.24
+2025-04-25,Friday,4,0,Lunch,Cafe,Desserts,32.6,1.7,None,200,48,45,3,0.74,59.67,179.01
+2025-10-08,Wednesday,10,0,Lunch,Quick Service,Chinese,16.5,5.1,None,100,64,40,24,9.46,88.15,2115.6
+2025-10-31,Friday,10,0,Lunch,Casual Dining,Chinese,16.9,2.3,None,200,56,49,7,2.04,128.46,899.22
+2025-06-08,Sunday,6,1,Breakfast,Cafe,Chinese,33.4,7.0,None,100,33,21,12,4.04,87.63,1051.56
+2025-10-21,Tuesday,10,0,Lunch,Cafe,North Indian,22.4,1.5,None,100,41,39,2,0.92,108.51,217.02
+2025-11-04,Tuesday,11,0,Dinner,Casual Dining,Chinese,15.0,14.5,None,150,45,38,7,2.23,80.77,565.39
+2025-05-22,Thursday,5,0,Dinner,Casual Dining,North Indian,36.4,6.8,None,100,61,50,11,4.06,75.37,829.07
+2025-11-24,Monday,11,0,Breakfast,Quick Service,Snacks,26.9,3.7,None,50,27,21,6,2.14,124.25,745.5
+2025-04-16,Wednesday,4,0,Lunch,Casual Dining,North Indian,29.4,5.1,None,200,63,61,2,0.56,107.28,214.56
+2025-03-29,Saturday,3,1,Lunch,Cafe,Snacks,25.9,0.6,None,100,54,26,28,11.04,78.34,2193.52
+2025-09-07,Sunday,9,1,Breakfast,Cafe,Desserts,29.7,1.7,Promotion,200,34,28,6,1.56,131.85,791.1
+2025-08-21,Thursday,8,0,Lunch,Casual Dining,North Indian,28.7,1.5,Festival,100,85,77,8,3.31,92.36,738.88
+2025-02-21,Friday,2,0,Breakfast,Quick Service,South Indian,42.9,0.1,None,200,44,44,0,0.0,62.89,0.0
+2025-10-31,Friday,10,0,Breakfast,Cafe,Chinese,27.1,0.0,None,125,22,22,0,0.0,90.91,0.0
+2025-03-14,Friday,3,0,Dinner,Cafe,South Indian,34.4,5.4,None,150,44,44,0,0.0,109.1,0.0
+2025-10-21,Tuesday,10,0,Lunch,Quick Service,North Indian,24.2,8.2,Festival,150,71,71,0,0.0,79.88,0.0
+2025-01-03,Friday,1,0,Dinner,Cafe,Snacks,33.1,4.6,None,75,39,35,4,1.16,125.16,500.64
+2025-10-18,Saturday,10,1,Breakfast,Quick Service,Chinese,28.1,2.3,None,150,38,34,4,0.6,95.65,382.6
+2025-10-15,Wednesday,10,0,Lunch,Casual Dining,Chinese,31.3,20.3,None,200,59,47,12,3.64,89.44,1073.28
+2025-10-12,Sunday,10,1,Lunch,Cafe,Snacks,22.4,0.3,None,125,55,37,18,5.12,126.58,2278.44
+2025-08-31,Sunday,8,1,Dinner,Cafe,South Indian,24.8,3.8,None,200,37,35,2,0.75,88.98,177.96
+2025-06-22,Sunday,6,1,Dinner,Cafe,Chinese,28.6,9.4,Festival,200,68,46,22,7.69,84.37,1856.14
+2025-09-15,Monday,9,0,Lunch,Family Restaurant,South Indian,29.5,0.0,Promotion,125,78,77,1,0.27,54.85,54.85
+2025-04-12,Saturday,4,1,Lunch,Quick Service,Chinese,40.5,5.9,None,100,69,69,0,0.0,79.44,0.0
+2025-10-12,Sunday,10,1,Lunch,Family Restaurant,North Indian,22.7,15.3,None,200,80,62,18,5.46,82.72,1488.96
+2025-07-22,Tuesday,7,0,Lunch,Casual Dining,Desserts,26.9,2.6,None,75,67,46,21,8.9,62.16,1305.36
+2025-06-17,Tuesday,6,0,Breakfast,Casual Dining,North Indian,32.6,3.4,None,125,32,29,3,0.79,100.84,302.52
+2025-07-04,Friday,7,0,Lunch,Family Restaurant,North Indian,27.8,0.4,None,150,73,68,5,1.35,58.66,293.3
+2025-07-27,Sunday,7,1,Breakfast,Casual Dining,South Indian,33.8,5.0,None,200,42,22,20,4.82,66.25,1325.0
+2025-01-14,Tuesday,1,0,Dinner,Quick Service,South Indian,17.7,0.0,Festival,75,79,53,26,5.62,98.3,2555.8
+2025-02-21,Friday,2,0,Lunch,Cafe,North Indian,26.9,2.4,Promotion,50,61,58,3,1.02,70.55,211.65
+2025-03-31,Monday,3,0,Lunch,Cafe,North Indian,28.6,0.0,None,100,39,32,7,2.34,105.77,740.39
+2025-02-11,Tuesday,2,0,Lunch,Cafe,Snacks,19.4,0.9,None,200,61,45,16,6.56,110.6,1769.6
+2025-06-10,Tuesday,6,0,Lunch,Quick Service,Desserts,26.2,0.8,None,125,71,71,0,0.0,73.62,0.0
+2025-09-01,Monday,9,0,Breakfast,Cafe,Desserts,21.0,1.2,None,50,18,18,0,0.0,53.3,0.0
+2025-08-27,Wednesday,8,0,Dinner,Quick Service,Desserts,26.0,6.6,None,50,44,44,0,0.0,91.5,0.0
+2025-06-21,Saturday,6,1,Dinner,Cafe,Desserts,36.6,8.4,None,100,51,48,3,0.91,53.83,161.49
+2025-11-09,Sunday,11,1,Breakfast,Cafe,Chinese,24.3,4.1,None,100,25,25,0,0.0,93.95,0.0
+2025-07-26,Saturday,7,1,Dinner,Family Restaurant,North Indian,23.8,6.1,Festival,50,90,63,27,9.96,113.99,3077.73
+2025-01-29,Wednesday,1,0,Lunch,Family Restaurant,Snacks,28.7,0.1,None,100,73,58,15,4.92,103.93,1558.95
+2025-10-07,Tuesday,10,0,Breakfast,Quick Service,North Indian,30.2,0.0,None,100,24,24,0,0.0,87.59,0.0
+2025-07-29,Tuesday,7,0,Lunch,Quick Service,Snacks,24.1,5.2,None,75,54,53,1,0.24,134.86,134.86
+2025-08-20,Wednesday,8,0,Breakfast,Cafe,Desserts,22.4,0.0,Promotion,75,29,29,0,0.0,54.67,0.0
+2025-07-26,Saturday,7,1,Breakfast,Family Restaurant,South Indian,31.8,0.0,None,125,40,37,3,1.0,128.6,385.8
+2025-07-22,Tuesday,7,0,Dinner,Quick Service,Snacks,27.9,2.9,None,200,55,49,6,1.98,121.01,726.06
+2025-02-03,Monday,2,0,Lunch,Casual Dining,Desserts,34.2,0.8,None,200,50,50,0,0.0,84.88,0.0
+2025-07-24,Thursday,7,0,Dinner,Casual Dining,Chinese,28.9,0.5,None,125,48,40,8,3.23,59.52,476.16
+2025-10-18,Saturday,10,1,Dinner,Casual Dining,North Indian,28.5,0.0,Promotion,50,70,55,15,6.95,59.81,897.15
+2025-04-21,Monday,4,0,Dinner,Cafe,North Indian,27.8,3.9,None,200,47,39,8,1.94,132.57,1060.56
+2025-08-09,Saturday,8,1,Lunch,Casual Dining,South Indian,26.9,1.5,Promotion,200,70,64,6,2.22,67.2,403.2
+2025-01-12,Sunday,1,1,Dinner,Casual Dining,North Indian,27.9,8.2,None,75,48,48,0,0.0,128.04,0.0
+2025-05-07,Wednesday,5,0,Lunch,Family Restaurant,Snacks,26.4,5.4,None,100,70,69,1,0.37,92.81,92.81
+2025-06-09,Monday,6,0,Lunch,Casual Dining,Chinese,23.2,1.3,None,50,62,61,1,0.19,88.86,88.86
+2025-12-25,Thursday,12,0,Lunch,Quick Service,North Indian,30.4,0.0,None,150,64,46,18,5.1,103.85,1869.3
+2025-03-20,Thursday,3,0,Dinner,Family Restaurant,Chinese,30.7,2.9,None,150,58,42,16,3.65,65.43,1046.88
+2025-04-11,Friday,4,0,Breakfast,Casual Dining,Desserts,27.9,2.5,None,50,33,25,8,2.44,85.7,685.6
+2025-05-30,Friday,5,0,Lunch,Family Restaurant,South Indian,32.0,0.0,None,150,82,82,0,0.0,134.16,0.0
+2025-12-29,Monday,12,0,Dinner,Family Restaurant,South Indian,32.6,4.7,Festival,100,77,77,0,0.0,67.63,0.0
+2025-11-08,Saturday,11,1,Lunch,Cafe,Desserts,15.0,0.0,Promotion,125,47,47,0,0.0,132.55,0.0
+2025-01-13,Monday,1,0,Dinner,Quick Service,Snacks,21.5,8.6,None,75,54,50,4,1.14,139.45,557.8
+2025-03-27,Thursday,3,0,Lunch,Family Restaurant,Chinese,27.8,2.3,None,150,85,71,14,6.03,49.93,699.02
+2025-10-27,Monday,10,0,Breakfast,Cafe,Desserts,32.3,0.4,Local Event,100,16,8,8,2.8,95.48,763.84
+2025-01-22,Wednesday,1,0,Lunch,Casual Dining,Chinese,30.4,3.6,None,200,57,57,0,0.0,61.32,0.0
+2025-11-09,Sunday,11,1,Lunch,Family Restaurant,Chinese,29.4,3.3,Festival,50,96,91,5,1.44,104.06,520.3
+2025-04-13,Sunday,4,1,Breakfast,Family Restaurant,North Indian,27.3,3.1,None,125,46,39,7,3.0,139.01,973.07
+2025-12-01,Monday,12,0,Breakfast,Family Restaurant,Desserts,21.4,7.5,Local Event,75,35,27,8,2.96,130.2,1041.6
+2025-04-18,Friday,4,0,Breakfast,Quick Service,Snacks,35.2,3.9,None,200,43,38,5,1.28,132.86,664.3
+2025-06-08,Sunday,6,1,Dinner,Cafe,North Indian,31.3,0.2,None,125,49,36,13,3.92,65.27,848.51
+2025-08-30,Saturday,8,1,Dinner,Casual Dining,Snacks,29.7,1.6,None,150,65,36,29,8.8,96.52,2799.08
+2025-02-16,Sunday,2,1,Lunch,Quick Service,Snacks,30.1,11.7,None,50,71,68,3,0.85,67.31,201.93
+2025-07-23,Wednesday,7,0,Breakfast,Casual Dining,South Indian,30.4,0.0,Festival,150,35,15,20,4.01,130.45,2609.0
+2025-07-04,Friday,7,0,Lunch,Quick Service,South Indian,29.8,4.6,Promotion,50,70,66,4,1.09,63.16,252.64
+2025-10-14,Tuesday,10,0,Dinner,Quick Service,Chinese,28.9,7.8,None,100,38,38,0,0.0,59.63,0.0
+2025-12-30,Tuesday,12,0,Dinner,Cafe,Snacks,31.0,5.1,None,75,41,38,3,0.88,46.16,138.48
+2025-08-31,Sunday,8,1,Lunch,Cafe,Snacks,18.9,2.9,None,50,64,52,12,3.75,62.29,747.48
+2025-05-30,Friday,5,0,Breakfast,Casual Dining,North Indian,21.2,3.7,None,125,33,29,4,1.32,63.03,252.12
+2025-05-29,Thursday,5,0,Dinner,Quick Service,Desserts,37.5,5.5,None,75,63,63,0,0.0,52.36,0.0
+2025-06-02,Monday,6,0,Dinner,Family Restaurant,Chinese,36.9,0.0,Festival,125,79,71,8,2.56,127.44,1019.52
+2025-10-25,Saturday,10,1,Breakfast,Cafe,North Indian,19.9,2.5,Local Event,150,28,27,1,0.4,119.1,119.1
+2025-04-28,Monday,4,0,Dinner,Cafe,South Indian,23.7,20.2,None,75,47,31,16,4.45,69.18,1106.88
+2025-03-02,Sunday,3,1,Breakfast,Quick Service,Desserts,33.0,4.7,None,150,57,44,13,3.92,119.41,1552.33
+2025-05-03,Saturday,5,1,Breakfast,Quick Service,Snacks,37.1,3.1,None,75,54,37,17,5.45,85.11,1446.87
+2025-01-09,Thursday,1,0,Dinner,Quick Service,Chinese,38.0,1.2,None,75,61,61,0,0.0,118.67,0.0
+2025-02-08,Saturday,2,1,Lunch,Quick Service,North Indian,33.6,0.0,None,125,74,63,11,3.36,75.69,832.59
+2025-02-02,Sunday,2,1,Lunch,Family Restaurant,South Indian,29.1,3.8,None,125,80,80,0,0.0,98.64,0.0
+2025-10-09,Thursday,10,0,Dinner,Casual Dining,South Indian,20.5,4.2,None,125,40,40,0,0.0,81.25,0.0
+2025-09-21,Sunday,9,1,Dinner,Cafe,South Indian,25.6,2.3,None,75,34,34,0,0.0,62.83,0.0
+2025-09-12,Friday,9,0,Breakfast,Family Restaurant,Chinese,24.0,26.8,Local Event,125,21,21,0,0.0,100.64,0.0
+2025-06-18,Wednesday,6,0,Lunch,Family Restaurant,South Indian,25.9,0.2,None,75,70,66,4,1.05,116.33,465.32
+2025-09-19,Friday,9,0,Dinner,Casual Dining,South Indian,35.8,0.0,None,75,46,45,1,0.4,116.55,116.55
+2025-02-28,Friday,2,0,Lunch,Casual Dining,North Indian,39.9,1.3,None,200,50,50,0,0.0,78.85,0.0
+2025-11-25,Tuesday,11,0,Dinner,Casual Dining,Snacks,31.2,2.4,Festival,50,62,50,12,3.7,94.28,1131.36
+2025-07-02,Wednesday,7,0,Dinner,Quick Service,Chinese,24.4,0.0,None,100,52,45,7,1.26,117.56,822.92
+2025-12-09,Tuesday,12,0,Breakfast,Family Restaurant,South Indian,31.3,3.7,None,100,24,12,12,3.53,50.18,602.16
+2025-02-25,Tuesday,2,0,Breakfast,Cafe,Snacks,34.2,4.3,None,75,23,23,0,0.0,51.83,0.0
+2025-07-01,Tuesday,7,0,Dinner,Casual Dining,Chinese,31.2,6.2,None,150,47,34,13,5.75,80.74,1049.62
+2025-09-12,Friday,9,0,Dinner,Cafe,South Indian,31.8,0.8,None,100,35,31,4,1.44,66.23,264.92
+2025-06-30,Monday,6,0,Breakfast,Cafe,Snacks,34.2,10.8,Local Event,150,34,27,7,2.79,80.59,564.13
+2025-06-12,Thursday,6,0,Breakfast,Quick Service,Desserts,34.7,5.8,None,100,20,20,0,0.0,53.91,0.0
+2025-03-02,Sunday,3,1,Dinner,Cafe,Chinese,35.6,0.1,None,200,35,29,6,1.87,101.24,607.44
+2025-05-20,Tuesday,5,0,Breakfast,Family Restaurant,South Indian,34.2,0.0,None,150,38,31,7,2.84,108.82,761.74
+2025-03-29,Saturday,3,1,Breakfast,Cafe,North Indian,23.5,1.5,Local Event,75,36,33,3,0.77,120.22,360.66
+2025-04-21,Monday,4,0,Dinner,Cafe,Chinese,33.4,4.3,Festival,200,59,50,9,3.49,106.8,961.2
+2025-09-07,Sunday,9,1,Dinner,Quick Service,Desserts,22.8,5.1,Local Event,200,63,63,0,0.0,82.66,0.0
+2025-08-19,Tuesday,8,0,Dinner,Cafe,Desserts,20.6,5.8,None,125,32,25,7,2.37,133.82,936.74
+2025-08-10,Sunday,8,1,Dinner,Family Restaurant,Desserts,35.4,19.1,Local Event,50,74,51,23,6.83,114.0,2622.0
+2025-05-13,Tuesday,5,0,Lunch,Casual Dining,Desserts,41.1,0.0,None,125,59,59,0,0.0,95.13,0.0
+2025-12-17,Wednesday,12,0,Dinner,Cafe,Chinese,33.8,2.2,None,150,51,30,21,9.33,64.65,1357.65
+2025-02-01,Saturday,2,1,Lunch,Cafe,Snacks,32.3,17.9,None,100,50,32,18,6.56,106.65,1919.7
+2025-05-06,Tuesday,5,0,Lunch,Quick Service,Snacks,39.2,6.6,Local Event,50,75,68,7,2.41,101.21,708.47
+2025-02-13,Thursday,2,0,Dinner,Casual Dining,Snacks,31.1,0.0,None,125,69,55,14,4.08,109.92,1538.88
+2025-05-04,Sunday,5,1,Dinner,Family Restaurant,Snacks,33.5,3.5,None,150,70,55,15,4.84,119.21,1788.15
+2025-12-18,Thursday,12,0,Dinner,Family Restaurant,South Indian,21.5,1.9,None,75,60,60,0,0.0,131.93,0.0
+2025-05-14,Wednesday,5,0,Breakfast,Casual Dining,Desserts,34.4,1.8,None,100,36,19,17,5.92,135.16,2297.72
+2025-11-28,Friday,11,0,Dinner,Casual Dining,South Indian,25.8,0.7,None,50,52,42,10,3.71,104.87,1048.7
+2025-06-30,Monday,6,0,Lunch,Family Restaurant,Chinese,24.5,3.1,None,150,71,53,18,4.77,136.77,2461.86
+2025-09-13,Saturday,9,1,Dinner,Quick Service,Chinese,25.3,9.1,Festival,200,78,71,7,1.52,131.59,921.13
+2025-06-16,Monday,6,0,Dinner,Casual Dining,Desserts,30.6,1.0,None,150,52,44,8,2.61,45.25,362.0
+2025-04-08,Tuesday,4,0,Lunch,Quick Service,South Indian,42.0,5.8,None,100,63,49,14,2.77,105.57,1477.98
+2025-10-06,Monday,10,0,Dinner,Quick Service,Chinese,29.5,7.0,None,50,53,53,0,0.0,61.95,0.0
+2025-12-20,Saturday,12,1,Lunch,Cafe,North Indian,27.1,10.8,None,100,65,40,25,7.11,73.04,1826.0
+2025-04-07,Monday,4,0,Dinner,Casual Dining,South Indian,34.2,0.0,Promotion,200,72,54,18,6.38,73.26,1318.68
+2025-10-12,Sunday,10,1,Dinner,Family Restaurant,North Indian,25.2,2.7,None,50,66,66,0,0.0,90.9,0.0
+2025-04-06,Sunday,4,1,Dinner,Family Restaurant,Chinese,32.0,0.4,None,75,78,78,0,0.0,46.03,0.0
+2025-09-19,Friday,9,0,Breakfast,Family Restaurant,Desserts,20.1,3.1,None,200,23,23,0,0.0,67.4,0.0
+2025-10-15,Wednesday,10,0,Breakfast,Cafe,North Indian,24.2,3.0,Promotion,125,23,9,14,4.25,47.77,668.78
+2025-06-14,Saturday,6,1,Dinner,Cafe,Desserts,27.3,0.0,None,75,54,43,11,3.79,106.8,1174.8
+2025-09-26,Friday,9,0,Dinner,Cafe,Snacks,19.3,3.3,Local Event,50,52,21,31,6.85,129.48,4013.88
+2025-04-10,Thursday,4,0,Dinner,Family Restaurant,Desserts,35.6,19.9,None,100,56,56,0,0.0,139.79,0.0
+2025-01-29,Wednesday,1,0,Breakfast,Quick Service,Desserts,31.0,5.1,None,125,28,12,16,5.17,87.61,1401.76
+2025-02-05,Wednesday,2,0,Lunch,Cafe,Snacks,22.1,0.0,None,200,62,35,27,8.52,69.71,1882.17
+2025-06-13,Friday,6,0,Dinner,Quick Service,Snacks,30.4,0.0,None,200,57,50,7,1.29,126.04,882.28
+2025-11-26,Wednesday,11,0,Dinner,Casual Dining,South Indian,30.5,2.5,None,100,60,45,15,4.88,55.75,836.25
+2025-02-16,Sunday,2,1,Breakfast,Casual Dining,Snacks,36.3,0.0,None,100,40,31,9,3.41,137.55,1237.95
+2025-06-16,Monday,6,0,Lunch,Cafe,South Indian,36.1,10.2,Local Event,200,56,56,0,0.0,112.91,0.0
+2025-09-14,Sunday,9,1,Breakfast,Family Restaurant,Snacks,25.7,0.0,Local Event,150,42,42,0,0.0,92.87,0.0
+2025-03-15,Saturday,3,1,Lunch,Quick Service,Snacks,28.2,5.1,Local Event,75,90,82,8,3.19,54.18,433.44
+2025-09-21,Sunday,9,1,Lunch,Cafe,Snacks,20.1,0.0,None,150,59,34,25,6.88,46.73,1168.25
+2025-04-22,Tuesday,4,0,Breakfast,Quick Service,Snacks,34.7,2.4,None,150,28,28,0,0.0,96.73,0.0
+2025-10-23,Thursday,10,0,Breakfast,Quick Service,North Indian,26.9,0.0,Promotion,75,30,20,10,3.23,84.32,843.2
+2025-07-31,Thursday,7,0,Dinner,Casual Dining,North Indian,35.4,6.2,None,200,56,56,0,0.0,125.05,0.0
+2025-07-19,Saturday,7,1,Dinner,Cafe,Chinese,34.5,8.7,None,75,46,46,0,0.0,106.02,0.0
+2025-03-06,Thursday,3,0,Dinner,Quick Service,Chinese,31.8,4.3,Festival,125,72,72,0,0.0,86.03,0.0
+2025-06-19,Thursday,6,0,Lunch,Casual Dining,North Indian,24.8,9.1,None,100,64,59,5,0.68,66.47,332.35
+2025-11-09,Sunday,11,1,Lunch,Family Restaurant,Chinese,23.9,0.0,None,150,81,43,38,11.67,90.64,3444.32
+2025-01-08,Wednesday,1,0,Lunch,Casual Dining,Chinese,30.1,3.3,Local Event,200,62,57,5,1.12,60.48,302.4
+2025-10-04,Saturday,10,1,Lunch,Family Restaurant,North Indian,24.0,5.0,None,100,74,74,0,0.0,108.37,0.0
+2025-06-29,Sunday,6,1,Lunch,Family Restaurant,Snacks,28.1,5.8,None,100,70,70,0,0.0,102.54,0.0
+2025-09-20,Saturday,9,1,Dinner,Casual Dining,North Indian,26.8,4.7,None,150,48,38,10,3.8,121.96,1219.6
+2025-08-31,Sunday,8,1,Dinner,Cafe,North Indian,24.5,6.0,None,200,45,36,9,2.73,87.71,789.39
+2025-06-07,Saturday,6,1,Dinner,Cafe,Chinese,27.9,3.2,Festival,200,62,35,27,6.73,71.47,1929.69
+2025-04-23,Wednesday,4,0,Lunch,Casual Dining,South Indian,34.6,0.0,None,150,54,54,0,0.0,124.46,0.0
+2025-08-17,Sunday,8,1,Lunch,Casual Dining,Snacks,25.0,0.7,None,150,58,42,16,7.3,110.64,1770.24
+2025-02-21,Friday,2,0,Lunch,Casual Dining,Snacks,32.2,10.3,Festival,150,69,69,0,0.0,112.14,0.0
+2025-08-02,Saturday,8,1,Breakfast,Quick Service,Desserts,28.4,9.3,None,200,40,40,0,0.0,95.17,0.0
+2025-02-04,Tuesday,2,0,Dinner,Quick Service,North Indian,25.3,4.9,Festival,50,58,58,0,0.0,128.22,0.0
+2025-08-26,Tuesday,8,0,Lunch,Casual Dining,Chinese,24.6,6.4,None,125,48,48,0,0.0,66.64,0.0
+2025-08-18,Monday,8,0,Dinner,Family Restaurant,Chinese,34.2,8.2,None,50,44,44,0,0.0,83.16,0.0
+2025-01-31,Friday,1,0,Breakfast,Quick Service,Snacks,23.2,4.9,None,125,33,26,7,2.75,120.64,844.48
+2025-10-04,Saturday,10,1,Dinner,Quick Service,Snacks,15.0,10.0,None,100,44,41,3,1.21,57.63,172.89
+2025-06-01,Sunday,6,1,Dinner,Casual Dining,Desserts,21.7,9.7,Local Event,75,65,63,2,0.65,121.77,243.54
+2025-10-15,Wednesday,10,0,Lunch,Cafe,Desserts,25.1,0.8,Festival,200,69,38,31,5.41,78.5,2433.5
+2025-01-16,Thursday,1,0,Dinner,Quick Service,South Indian,29.2,0.9,Promotion,150,77,44,33,10.62,56.92,1878.36
+2025-03-07,Friday,3,0,Lunch,Quick Service,North Indian,31.9,4.5,None,125,53,53,0,0.0,52.52,0.0
+2025-06-30,Monday,6,0,Dinner,Quick Service,Snacks,37.1,17.0,Local Event,200,65,55,10,3.11,125.09,1250.9
+2025-03-10,Monday,3,0,Dinner,Casual Dining,Chinese,19.1,10.8,None,50,43,43,0,0.0,118.97,0.0
+2025-05-01,Thursday,5,0,Dinner,Quick Service,Chinese,34.4,7.2,Promotion,125,60,57,3,0.76,72.36,217.08
+2025-08-30,Saturday,8,1,Dinner,Family Restaurant,South Indian,34.8,11.4,None,50,65,65,0,0.0,56.05,0.0
+2025-02-22,Saturday,2,1,Lunch,Family Restaurant,Chinese,25.4,5.2,Promotion,75,102,89,13,5.83,68.49,890.37
+2025-09-05,Friday,9,0,Dinner,Casual Dining,Snacks,23.6,1.5,None,75,51,42,9,4.06,65.23,587.07
+2025-02-07,Friday,2,0,Dinner,Quick Service,South Indian,27.2,20.5,None,125,48,48,0,0.0,114.64,0.0
+2025-03-05,Wednesday,3,0,Breakfast,Quick Service,Chinese,28.0,4.7,Local Event,125,42,39,3,1.02,65.48,196.44
+2025-08-03,Sunday,8,1,Breakfast,Casual Dining,Desserts,25.4,9.5,None,150,18,18,0,0.0,65.53,0.0
+2025-10-17,Friday,10,0,Dinner,Casual Dining,Chinese,32.1,0.0,None,100,42,42,0,0.0,48.07,0.0
+2025-03-04,Tuesday,3,0,Lunch,Cafe,Desserts,41.7,0.0,Promotion,200,54,54,0,0.0,101.7,0.0
+2025-04-20,Sunday,4,1,Lunch,Casual Dining,North Indian,31.3,3.4,None,100,68,47,21,4.47,110.45,2319.45
+2025-12-04,Thursday,12,0,Dinner,Casual Dining,South Indian,36.5,0.0,None,50,48,29,19,6.7,107.08,2034.52
+2025-12-28,Sunday,12,1,Dinner,Casual Dining,Snacks,27.2,3.9,None,50,54,49,5,1.79,99.02,495.1
+2025-08-01,Friday,8,0,Lunch,Cafe,North Indian,35.8,0.8,None,50,45,39,6,2.14,136.78,820.68
+2025-06-13,Friday,6,0,Lunch,Cafe,South Indian,30.5,27.7,None,100,46,44,2,0.87,89.91,179.82
+2025-05-07,Wednesday,5,0,Lunch,Quick Service,South Indian,33.1,8.8,Promotion,100,82,72,10,4.63,126.71,1267.1
+2025-08-12,Tuesday,8,0,Dinner,Casual Dining,Desserts,28.8,12.4,Promotion,200,57,55,2,0.61,106.37,212.74
+2025-08-04,Monday,8,0,Lunch,Cafe,Snacks,42.9,0.0,None,50,45,31,14,5.14,53.0,742.0
+2025-04-18,Friday,4,0,Lunch,Cafe,North Indian,37.3,7.1,None,75,52,43,9,2.93,121.96,1097.64
+2025-01-09,Thursday,1,0,Dinner,Cafe,Chinese,25.5,1.9,None,200,46,23,23,6.34,100.52,2311.96
+2025-02-25,Tuesday,2,0,Dinner,Cafe,North Indian,35.8,12.6,Festival,50,50,50,0,0.0,107.08,0.0
+2025-12-16,Tuesday,12,0,Dinner,Cafe,South Indian,25.2,6.1,None,100,38,17,21,7.71,62.12,1304.52
+2025-06-02,Monday,6,0,Breakfast,Casual Dining,Desserts,28.6,2.5,None,75,38,27,11,3.69,86.56,952.16
+2025-06-26,Thursday,6,0,Dinner,Cafe,Desserts,35.5,0.0,Promotion,125,43,33,10,2.58,128.66,1286.6
+2025-06-20,Friday,6,0,Lunch,Casual Dining,North Indian,31.2,3.3,Festival,200,90,68,22,6.33,65.47,1440.34
+2025-10-13,Monday,10,0,Breakfast,Casual Dining,North Indian,26.4,10.1,None,75,15,15,0,0.0,45.01,0.0
+2025-01-24,Friday,1,0,Dinner,Quick Service,Desserts,29.1,1.3,None,100,52,50,2,0.52,69.46,138.92
+2025-01-31,Friday,1,0,Dinner,Casual Dining,Chinese,30.7,24.4,None,100,41,28,13,4.45,91.32,1187.16
+2025-04-11,Friday,4,0,Lunch,Quick Service,North Indian,35.1,9.4,None,150,81,54,27,9.43,123.02,3321.54
+2025-06-27,Friday,6,0,Dinner,Quick Service,North Indian,21.3,0.0,None,200,51,37,14,5.44,106.11,1485.54
+2025-09-02,Tuesday,9,0,Lunch,Casual Dining,Chinese,28.9,0.0,None,50,51,35,16,4.16,132.31,2116.96
+2025-06-29,Sunday,6,1,Breakfast,Cafe,Chinese,26.1,2.2,None,100,28,26,2,0.56,88.28,176.56
+2025-06-11,Wednesday,6,0,Lunch,Family Restaurant,South Indian,23.8,1.3,None,150,70,67,3,1.29,82.13,246.39
+2025-12-09,Tuesday,12,0,Lunch,Quick Service,Chinese,26.7,5.2,None,50,58,58,0,0.0,66.98,0.0
+2025-02-28,Friday,2,0,Dinner,Family Restaurant,Chinese,31.4,2.9,None,150,60,60,0,0.0,65.72,0.0
+2025-07-28,Monday,7,0,Dinner,Casual Dining,North Indian,25.5,1.6,Promotion,75,34,34,0,0.0,114.93,0.0
+2025-07-17,Thursday,7,0,Dinner,Cafe,North Indian,33.2,0.0,None,125,41,33,8,3.19,52.63,421.04
+2025-06-22,Sunday,6,1,Breakfast,Cafe,Chinese,24.3,6.3,Promotion,200,36,21,15,6.03,68.06,1020.9
+2025-10-22,Wednesday,10,0,Lunch,Family Restaurant,North Indian,23.0,0.0,None,125,71,54,17,6.76,129.16,2195.72
+2025-04-08,Tuesday,4,0,Breakfast,Quick Service,Desserts,30.1,9.4,None,200,43,17,26,8.37,99.81,2595.06
+2025-12-15,Monday,12,0,Dinner,Family Restaurant,Chinese,26.8,0.0,Festival,125,73,62,11,2.85,49.43,543.73
+2025-05-02,Friday,5,0,Lunch,Quick Service,Chinese,33.9,0.0,None,75,72,61,11,5.0,111.9,1230.9
+2025-07-18,Friday,7,0,Lunch,Family Restaurant,North Indian,24.0,0.0,None,150,60,60,0,0.0,93.13,0.0
+2025-07-10,Thursday,7,0,Dinner,Cafe,Desserts,32.6,1.0,None,125,46,46,0,0.0,126.18,0.0
+2025-11-07,Friday,11,0,Dinner,Casual Dining,South Indian,25.9,0.4,None,75,43,30,13,5.46,109.83,1427.79
+2025-06-10,Tuesday,6,0,Lunch,Casual Dining,Chinese,21.5,1.0,None,50,49,49,0,0.0,45.42,0.0
+2025-04-14,Monday,4,0,Lunch,Quick Service,South Indian,23.2,4.0,None,125,63,47,16,6.7,64.55,1032.8
+2025-01-08,Wednesday,1,0,Dinner,Family Restaurant,Snacks,28.9,0.0,None,125,69,50,19,8.05,69.51,1320.69
+2025-05-13,Tuesday,5,0,Lunch,Cafe,North Indian,31.4,4.0,None,150,50,40,10,2.55,111.71,1117.1
+2025-10-29,Wednesday,10,0,Breakfast,Family Restaurant,North Indian,24.5,0.0,None,50,40,30,10,3.61,93.38,933.8
+2025-01-04,Saturday,1,1,Dinner,Cafe,South Indian,28.9,0.0,None,125,41,37,4,1.5,116.01,464.04
+2025-11-24,Monday,11,0,Lunch,Family Restaurant,Snacks,26.7,9.3,None,150,71,56,15,7.55,93.72,1405.8
+2025-07-18,Friday,7,0,Lunch,Family Restaurant,North Indian,33.7,0.1,None,200,65,60,5,1.34,76.1,380.5
+2025-02-21,Friday,2,0,Breakfast,Casual Dining,North Indian,25.4,5.9,None,200,31,12,19,7.99,54.85,1042.15
+2025-04-21,Monday,4,0,Lunch,Cafe,Desserts,27.1,0.0,None,75,50,37,13,4.18,64.25,835.25
+2025-07-22,Tuesday,7,0,Lunch,Casual Dining,South Indian,23.5,13.1,None,75,60,46,14,3.26,83.07,1162.98
+2025-04-26,Saturday,4,1,Lunch,Family Restaurant,Chinese,34.4,3.1,None,125,83,76,7,2.18,97.39,681.73
+2025-02-09,Sunday,2,1,Lunch,Cafe,South Indian,37.2,2.6,None,100,49,49,0,0.0,134.17,0.0
+2025-09-01,Monday,9,0,Lunch,Casual Dining,South Indian,23.4,0.0,None,75,60,46,14,3.44,67.77,948.78
+2025-09-03,Wednesday,9,0,Dinner,Cafe,South Indian,15.0,0.0,Promotion,50,56,36,20,6.84,108.28,2165.6
+2025-02-13,Thursday,2,0,Dinner,Casual Dining,South Indian,22.5,1.7,Promotion,50,56,40,16,6.19,59.49,951.84
+2025-04-13,Sunday,4,1,Breakfast,Cafe,Desserts,28.8,0.0,None,100,19,19,0,0.0,112.81,0.0
+2025-03-31,Monday,3,0,Breakfast,Casual Dining,Chinese,29.7,8.4,None,150,34,19,15,4.23,46.08,691.2
+2025-08-29,Friday,8,0,Dinner,Casual Dining,Desserts,25.0,3.0,None,50,45,45,0,0.0,107.31,0.0
+2025-09-24,Wednesday,9,0,Dinner,Family Restaurant,North Indian,25.7,0.0,Festival,50,72,72,0,0.0,60.51,0.0
+2025-09-23,Tuesday,9,0,Dinner,Quick Service,Snacks,24.0,7.2,Festival,75,69,58,11,3.69,62.13,683.43
+2025-12-09,Tuesday,12,0,Breakfast,Family Restaurant,South Indian,32.2,1.2,None,200,29,18,11,4.37,98.1,1079.1
+2025-10-08,Wednesday,10,0,Lunch,Quick Service,South Indian,21.6,6.8,None,200,56,52,4,1.36,80.66,322.64
+2025-04-28,Monday,4,0,Breakfast,Quick Service,South Indian,28.7,0.7,None,100,34,31,3,0.67,89.77,269.31
+2025-02-09,Sunday,2,1,Dinner,Quick Service,Desserts,33.4,5.4,Festival,50,95,76,19,5.33,74.34,1412.46
+2025-08-13,Wednesday,8,0,Lunch,Quick Service,Snacks,19.3,1.1,Promotion,50,72,61,11,3.65,135.58,1491.38
+2025-12-01,Monday,12,0,Lunch,Quick Service,Snacks,28.9,8.4,None,200,52,52,0,0.0,72.61,0.0
+2025-12-22,Monday,12,0,Lunch,Family Restaurant,Desserts,27.5,0.0,None,100,58,58,0,0.0,96.49,0.0
+2025-03-26,Wednesday,3,0,Lunch,Family Restaurant,North Indian,31.7,0.0,None,50,73,63,10,4.44,126.16,1261.6
+2025-03-28,Friday,3,0,Lunch,Cafe,Snacks,40.4,2.0,None,200,42,30,12,3.95,108.1,1297.2
+2025-01-14,Tuesday,1,0,Breakfast,Quick Service,Chinese,25.9,0.2,Promotion,125,25,25,0,0.0,75.66,0.0
+2025-02-21,Friday,2,0,Lunch,Family Restaurant,Chinese,41.3,1.0,None,100,76,60,16,3.49,97.48,1559.68
+2025-07-22,Tuesday,7,0,Dinner,Cafe,Snacks,27.9,6.2,None,100,45,36,9,3.15,52.88,475.92
+2025-07-19,Saturday,7,1,Dinner,Cafe,Chinese,22.6,0.9,None,75,43,41,2,0.49,96.84,193.68
+2025-05-16,Friday,5,0,Lunch,Family Restaurant,South Indian,32.8,4.2,None,200,73,50,23,7.26,85.98,1977.54
+2025-04-24,Thursday,4,0,Dinner,Casual Dining,South Indian,27.6,0.0,Festival,150,70,63,7,3.72,117.0,819.0
+2025-10-30,Thursday,10,0,Dinner,Casual Dining,Chinese,21.2,0.0,None,75,50,44,6,2.05,125.55,753.3
+2025-06-17,Tuesday,6,0,Breakfast,Family Restaurant,Chinese,33.0,6.8,Festival,150,50,45,5,1.3,63.96,319.8
+2025-10-23,Thursday,10,0,Breakfast,Cafe,Snacks,27.8,15.7,None,75,5,5,0,0.0,52.75,0.0
+2025-12-18,Thursday,12,0,Lunch,Cafe,Chinese,23.9,3.7,None,100,43,23,20,5.68,82.1,1642.0
+2025-04-26,Saturday,4,1,Lunch,Cafe,South Indian,37.9,2.2,None,150,59,59,0,0.0,95.74,0.0
+2025-03-15,Saturday,3,1,Breakfast,Family Restaurant,North Indian,38.3,3.1,None,50,44,44,0,0.0,80.8,0.0
+2025-12-14,Sunday,12,1,Breakfast,Casual Dining,Chinese,34.2,11.5,None,150,35,19,16,6.31,104.71,1675.36
+2025-08-20,Wednesday,8,0,Breakfast,Quick Service,Desserts,29.6,3.7,None,75,35,17,18,6.2,93.04,1674.72
+2025-04-17,Thursday,4,0,Lunch,Casual Dining,Chinese,39.8,7.1,None,150,62,57,5,1.46,133.98,669.9
+2025-08-15,Friday,8,0,Lunch,Cafe,Snacks,17.6,6.8,None,100,54,43,11,3.28,83.89,922.79
+2025-07-07,Monday,7,0,Breakfast,Family Restaurant,Snacks,27.4,9.1,None,50,40,22,18,7.7,52.84,951.12
+2025-11-27,Thursday,11,0,Dinner,Casual Dining,North Indian,21.2,2.2,None,150,45,45,0,0.0,73.68,0.0
+2025-04-04,Friday,4,0,Lunch,Cafe,Desserts,33.6,0.7,Festival,75,63,44,19,1.98,102.56,1948.64
+2025-12-28,Sunday,12,1,Lunch,Family Restaurant,Snacks,24.1,5.5,Promotion,200,69,69,0,0.0,69.32,0.0
+2025-12-08,Monday,12,0,Lunch,Family Restaurant,Desserts,26.2,8.5,None,200,63,42,21,6.99,70.55,1481.55
+2025-03-07,Friday,3,0,Dinner,Family Restaurant,Snacks,41.9,10.2,Local Event,75,62,58,4,1.38,77.26,309.04
+2025-03-02,Sunday,3,1,Dinner,Family Restaurant,Snacks,31.6,12.8,Local Event,125,81,81,0,0.0,115.88,0.0
+2025-07-14,Monday,7,0,Lunch,Cafe,South Indian,31.1,7.8,Promotion,100,56,56,0,0.0,134.31,0.0
+2025-01-17,Friday,1,0,Breakfast,Casual Dining,Chinese,27.8,0.5,None,125,34,25,9,3.35,78.29,704.61
+2025-04-20,Sunday,4,1,Lunch,Casual Dining,South Indian,33.4,3.7,None,125,78,57,21,6.1,63.57,1334.97
+2025-06-08,Sunday,6,1,Breakfast,Cafe,Snacks,31.0,3.2,None,75,31,23,8,1.87,84.96,679.68
+2025-12-20,Saturday,12,1,Dinner,Quick Service,Snacks,29.2,2.7,Festival,125,96,78,18,6.11,78.42,1411.56
+2025-12-29,Monday,12,0,Breakfast,Cafe,Chinese,32.8,5.5,Local Event,75,27,7,20,8.4,139.05,2781.0
+2025-02-25,Tuesday,2,0,Dinner,Cafe,North Indian,39.2,1.8,None,200,34,32,2,0.55,89.07,178.14
+2025-11-22,Saturday,11,1,Lunch,Cafe,South Indian,27.1,1.8,None,200,46,46,0,0.0,109.53,0.0
+2025-02-03,Monday,2,0,Lunch,Casual Dining,Snacks,33.9,16.6,Local Event,50,63,51,12,4.87,131.81,1581.72
+2025-10-01,Wednesday,10,0,Dinner,Cafe,Snacks,19.2,2.4,Festival,150,52,36,16,4.61,104.76,1676.16
+2025-11-05,Wednesday,11,0,Breakfast,Quick Service,Chinese,25.1,9.1,None,200,20,20,0,0.0,68.69,0.0
+2025-11-22,Saturday,11,1,Dinner,Cafe,Snacks,30.2,9.6,None,50,42,40,2,0.59,102.7,205.4
+2025-03-23,Sunday,3,1,Breakfast,Family Restaurant,Snacks,36.8,3.8,None,150,46,36,10,3.15,83.18,831.8
+2025-11-23,Sunday,11,1,Dinner,Family Restaurant,Chinese,26.6,2.0,None,200,61,59,2,0.42,85.12,170.24
+2025-02-12,Wednesday,2,0,Lunch,Family Restaurant,South Indian,35.4,0.0,None,75,77,70,7,1.98,138.04,966.28
+2025-07-09,Wednesday,7,0,Breakfast,Casual Dining,Desserts,31.5,0.0,Local Event,125,37,37,0,0.0,71.47,0.0
+2025-06-21,Saturday,6,1,Dinner,Quick Service,Chinese,37.0,6.0,Promotion,150,86,71,15,5.03,89.55,1343.25
+2025-04-26,Saturday,4,1,Breakfast,Cafe,Snacks,34.4,4.7,None,100,30,26,4,1.6,60.19,240.76
+2025-01-09,Thursday,1,0,Breakfast,Quick Service,Desserts,27.2,7.0,None,75,39,36,3,1.35,61.96,185.88
+2025-10-09,Thursday,10,0,Dinner,Casual Dining,North Indian,26.7,0.9,None,100,37,36,1,0.43,102.33,102.33
+2025-05-03,Saturday,5,1,Lunch,Cafe,Snacks,17.8,18.0,None,100,42,35,7,2.69,116.35,814.45
+2025-08-30,Saturday,8,1,Dinner,Cafe,South Indian,28.9,5.2,None,150,37,37,0,0.0,105.46,0.0
+2025-05-30,Friday,5,0,Lunch,Cafe,Desserts,15.0,2.2,None,100,47,47,0,0.0,76.28,0.0
+2025-05-17,Saturday,5,1,Lunch,Family Restaurant,South Indian,23.8,1.2,None,100,88,76,12,3.86,50.66,607.92
+2025-11-20,Thursday,11,0,Lunch,Quick Service,Chinese,27.8,7.3,None,200,55,52,3,1.08,89.68,269.04
+2025-02-04,Tuesday,2,0,Breakfast,Family Restaurant,North Indian,33.4,12.5,None,125,31,17,14,5.29,92.91,1300.74
+2025-09-26,Friday,9,0,Dinner,Cafe,South Indian,19.7,2.9,Local Event,200,41,36,5,1.82,118.21,591.05
+2025-09-30,Tuesday,9,0,Breakfast,Casual Dining,Chinese,22.0,14.4,None,150,28,28,0,0.0,105.83,0.0
+2025-05-19,Monday,5,0,Lunch,Casual Dining,Desserts,39.3,0.0,None,200,58,46,12,4.5,127.77,1533.24
+2025-04-06,Sunday,4,1,Lunch,Cafe,South Indian,30.6,4.8,Promotion,75,62,57,5,2.04,119.38,596.9
+2025-01-02,Thursday,1,0,Lunch,Cafe,North Indian,40.2,5.0,None,200,38,38,0,0.0,79.76,0.0
+2025-12-08,Monday,12,0,Lunch,Casual Dining,South Indian,27.0,6.0,None,200,51,43,8,2.54,105.06,840.48
+2025-12-12,Friday,12,0,Dinner,Quick Service,South Indian,29.0,3.5,None,50,61,48,13,3.4,115.99,1507.87
+2025-03-29,Saturday,3,1,Dinner,Quick Service,North Indian,40.5,4.5,None,100,67,64,3,0.78,135.9,407.7
+2025-01-12,Sunday,1,1,Dinner,Casual Dining,Chinese,29.7,0.0,None,100,52,52,0,0.0,85.12,0.0
+2025-02-14,Friday,2,0,Lunch,Casual Dining,Snacks,26.0,11.5,None,100,66,43,23,7.77,106.59,2451.57
+2025-01-25,Saturday,1,1,Lunch,Cafe,Snacks,28.5,8.2,None,150,48,33,15,5.35,82.3,1234.5
+2025-10-31,Friday,10,0,Breakfast,Family Restaurant,Snacks,24.8,4.3,None,150,39,25,14,3.09,115.09,1611.26
+2025-11-22,Saturday,11,1,Dinner,Quick Service,Snacks,18.7,8.4,None,75,67,47,20,5.69,131.64,2632.8
+2025-02-25,Tuesday,2,0,Lunch,Casual Dining,North Indian,29.7,11.8,None,125,58,58,0,0.0,132.33,0.0
+2025-09-30,Tuesday,9,0,Lunch,Quick Service,Desserts,21.8,5.9,None,200,48,48,0,0.0,59.92,0.0
+2025-03-07,Friday,3,0,Breakfast,Family Restaurant,South Indian,37.1,19.6,None,100,51,45,6,2.1,64.39,386.34
+2025-05-15,Thursday,5,0,Dinner,Cafe,Snacks,32.6,6.5,Festival,200,58,42,16,4.78,116.72,1867.52
+2025-08-07,Thursday,8,0,Dinner,Quick Service,South Indian,25.6,0.0,None,125,50,50,0,0.0,104.95,0.0
+2025-09-20,Saturday,9,1,Dinner,Casual Dining,Snacks,25.0,4.0,None,200,61,55,6,1.94,130.99,785.94
+2025-11-16,Sunday,11,1,Breakfast,Cafe,South Indian,26.7,8.7,None,200,32,27,5,1.74,74.81,374.05
+2025-01-17,Friday,1,0,Dinner,Family Restaurant,North Indian,32.1,11.8,None,50,67,49,18,4.69,125.56,2260.08
+2025-03-13,Thursday,3,0,Lunch,Cafe,North Indian,27.5,3.6,Promotion,150,53,53,0,0.0,109.96,0.0
+2025-04-13,Sunday,4,1,Lunch,Casual Dining,Snacks,27.8,0.0,None,75,70,62,8,2.82,63.57,508.56
+2025-04-24,Thursday,4,0,Lunch,Cafe,South Indian,38.5,1.9,None,150,41,41,0,0.0,57.02,0.0
+2025-12-31,Wednesday,12,0,Lunch,Cafe,North Indian,24.9,0.0,Promotion,150,58,35,23,4.69,111.76,2570.48
+2025-10-11,Saturday,10,1,Lunch,Cafe,North Indian,17.9,7.2,Local Event,75,55,54,1,0.21,60.05,60.05
+2025-04-27,Sunday,4,1,Lunch,Quick Service,Snacks,35.2,1.2,None,50,77,67,10,2.91,120.46,1204.6
+2025-12-21,Sunday,12,1,Lunch,Cafe,Desserts,29.3,0.3,None,100,50,49,1,0.23,97.92,97.92
+2025-07-02,Wednesday,7,0,Dinner,Quick Service,Snacks,21.3,8.0,None,75,50,48,2,0.59,90.3,180.6
+2025-07-02,Wednesday,7,0,Dinner,Family Restaurant,Chinese,30.1,14.1,None,125,51,51,0,0.0,71.18,0.0
+2025-06-08,Sunday,6,1,Dinner,Family Restaurant,North Indian,34.7,0.3,None,50,76,65,11,2.46,138.47,1523.17
+2025-02-22,Saturday,2,1,Lunch,Cafe,Desserts,32.9,3.6,None,50,64,54,10,3.0,113.61,1136.1
+2025-12-08,Monday,12,0,Breakfast,Cafe,South Indian,30.2,2.0,Local Event,100,22,18,4,1.88,118.92,475.68
+2025-01-06,Monday,1,0,Dinner,Quick Service,South Indian,22.0,12.3,None,150,56,34,22,7.67,118.03,2596.66
+2025-03-05,Wednesday,3,0,Breakfast,Family Restaurant,North Indian,34.1,2.5,None,75,40,36,4,1.18,100.48,401.92
+2025-03-25,Tuesday,3,0,Lunch,Casual Dining,North Indian,31.0,0.0,None,75,60,48,12,3.71,134.27,1611.24
+2025-04-12,Saturday,4,1,Breakfast,Casual Dining,Chinese,30.6,2.7,None,50,29,23,6,2.1,100.46,602.76
+2025-02-18,Tuesday,2,0,Dinner,Cafe,Desserts,35.4,10.1,None,75,32,27,5,2.19,94.4,472.0
+2025-01-07,Tuesday,1,0,Lunch,Family Restaurant,Snacks,36.4,1.8,Festival,75,86,86,0,0.0,71.0,0.0
+2025-09-05,Friday,9,0,Dinner,Casual Dining,North Indian,34.5,0.6,None,75,33,33,0,0.0,71.76,0.0
+2025-12-20,Saturday,12,1,Lunch,Cafe,North Indian,33.6,2.3,None,100,62,29,33,7.37,115.0,3795.0
+2025-02-14,Friday,2,0,Lunch,Cafe,Snacks,30.5,0.0,None,75,50,39,11,3.6,76.8,844.8
+2025-04-19,Saturday,4,1,Lunch,Casual Dining,North Indian,34.8,2.0,None,150,68,68,0,0.0,114.23,0.0
+2025-07-04,Friday,7,0,Breakfast,Cafe,Desserts,32.8,0.8,None,100,9,9,0,0.0,135.51,0.0
+2025-12-05,Friday,12,0,Lunch,Family Restaurant,Chinese,27.6,22.5,Promotion,150,63,63,0,0.0,86.73,0.0
+2025-09-11,Thursday,9,0,Lunch,Casual Dining,Chinese,26.2,0.0,None,125,55,55,0,0.0,54.25,0.0
+2025-10-07,Tuesday,10,0,Lunch,Family Restaurant,Desserts,29.1,0.6,None,125,79,65,14,3.98,108.32,1516.48
+2025-08-01,Friday,8,0,Breakfast,Family Restaurant,North Indian,26.7,0.0,Promotion,125,32,32,0,0.0,45.9,0.0
+2025-06-02,Monday,6,0,Dinner,Family Restaurant,Chinese,27.4,4.9,None,200,66,32,34,7.06,119.77,4072.18
+2025-03-14,Friday,3,0,Lunch,Cafe,Chinese,30.4,0.2,Promotion,75,55,55,0,0.0,94.94,0.0
+2025-11-12,Wednesday,11,0,Breakfast,Family Restaurant,North Indian,28.7,0.0,None,200,31,30,1,0.24,91.52,91.52
+2025-10-21,Tuesday,10,0,Breakfast,Cafe,South Indian,25.0,3.2,None,75,30,30,0,0.0,99.1,0.0
+2025-01-10,Friday,1,0,Lunch,Family Restaurant,North Indian,30.7,1.6,Promotion,50,80,70,10,4.75,94.06,940.6
+2025-09-19,Friday,9,0,Lunch,Cafe,South Indian,28.9,0.4,None,150,40,25,15,5.78,75.76,1136.4
+2025-01-31,Friday,1,0,Dinner,Family Restaurant,Snacks,27.1,12.0,None,200,67,51,16,4.98,71.74,1147.84
+2025-09-27,Saturday,9,1,Lunch,Family Restaurant,South Indian,29.3,5.1,None,50,74,66,8,4.35,84.45,675.6
+2025-10-29,Wednesday,10,0,Dinner,Family Restaurant,North Indian,26.9,4.4,None,125,62,54,8,2.05,130.02,1040.16
+2025-02-17,Monday,2,0,Lunch,Cafe,Desserts,24.8,5.2,None,125,42,42,0,0.0,57.86,0.0
+2025-06-08,Sunday,6,1,Lunch,Cafe,Chinese,38.2,4.9,None,75,64,48,16,3.4,75.85,1213.6
+2025-02-15,Saturday,2,1,Dinner,Family Restaurant,Snacks,28.5,1.8,None,125,72,62,10,3.03,63.27,632.7
+2025-07-27,Sunday,7,1,Lunch,Casual Dining,Snacks,20.7,0.3,None,150,67,62,5,1.13,85.58,427.9
+2025-12-05,Friday,12,0,Breakfast,Quick Service,North Indian,21.8,3.3,None,125,29,20,9,3.04,57.68,519.12
+2025-01-30,Thursday,1,0,Lunch,Family Restaurant,Snacks,23.9,1.7,None,125,64,58,6,1.94,117.28,703.68
+2025-05-26,Monday,5,0,Dinner,Cafe,North Indian,32.7,0.0,None,200,43,43,0,0.0,54.83,0.0
+2025-12-22,Monday,12,0,Dinner,Casual Dining,Snacks,25.6,1.3,None,75,45,45,0,0.0,108.2,0.0
+2025-04-20,Sunday,4,1,Lunch,Cafe,Snacks,31.3,8.1,None,125,61,57,4,1.12,70.43,281.72
+2025-02-18,Tuesday,2,0,Dinner,Quick Service,Desserts,34.1,3.3,None,75,55,49,6,2.06,89.86,539.16
+2025-06-28,Saturday,6,1,Lunch,Casual Dining,Desserts,32.7,0.0,None,200,57,44,13,4.91,64.0,832.0
+2025-07-05,Saturday,7,1,Breakfast,Casual Dining,South Indian,30.6,0.0,None,75,25,25,0,0.0,114.37,0.0
+2025-08-30,Saturday,8,1,Dinner,Casual Dining,North Indian,29.0,9.9,None,200,43,43,0,0.0,135.09,0.0
+2025-04-25,Friday,4,0,Lunch,Family Restaurant,Chinese,36.1,1.9,None,125,77,66,11,3.56,66.07,726.77
+2025-12-15,Monday,12,0,Lunch,Cafe,North Indian,16.5,2.2,Promotion,75,44,41,3,1.09,135.55,406.65
+2025-07-10,Thursday,7,0,Dinner,Quick Service,Snacks,27.2,6.4,Promotion,150,66,58,8,3.36,75.9,607.2
+2025-04-15,Tuesday,4,0,Lunch,Casual Dining,Desserts,22.1,0.0,None,75,60,45,15,4.57,98.0,1470.0
+2025-12-17,Wednesday,12,0,Dinner,Quick Service,North Indian,27.2,3.0,Promotion,75,62,46,16,4.77,111.65,1786.4
+2025-12-04,Thursday,12,0,Lunch,Family Restaurant,Desserts,27.0,3.4,Festival,100,90,90,0,0.0,63.93,0.0
+2025-07-02,Wednesday,7,0,Breakfast,Casual Dining,Desserts,34.2,0.0,None,150,31,16,15,5.15,87.25,1308.75
+2025-01-10,Friday,1,0,Lunch,Casual Dining,Desserts,34.9,10.8,Local Event,100,46,46,0,0.0,51.44,0.0
+2025-08-06,Wednesday,8,0,Dinner,Casual Dining,South Indian,28.0,3.5,None,125,46,46,0,0.0,111.22,0.0
+2025-07-22,Tuesday,7,0,Lunch,Quick Service,North Indian,26.5,1.2,None,125,65,64,1,0.31,84.58,84.58
+2025-02-24,Monday,2,0,Breakfast,Family Restaurant,South Indian,33.4,2.0,None,75,47,36,11,3.94,129.71,1426.81
+2025-08-20,Wednesday,8,0,Dinner,Cafe,South Indian,24.4,0.0,None,75,51,35,16,4.49,71.03,1136.48
+2025-11-03,Monday,11,0,Dinner,Casual Dining,South Indian,25.5,0.0,None,75,37,37,0,0.0,132.74,0.0
+2025-02-08,Saturday,2,1,Dinner,Casual Dining,Chinese,35.9,0.9,Promotion,75,69,69,0,0.0,58.4,0.0
+2025-09-22,Monday,9,0,Lunch,Cafe,South Indian,22.7,1.1,None,200,33,33,0,0.0,102.66,0.0
+2025-02-21,Friday,2,0,Lunch,Quick Service,North Indian,35.0,1.7,None,100,76,44,32,8.89,74.24,2375.68
+2025-10-01,Wednesday,10,0,Lunch,Family Restaurant,Desserts,28.4,11.6,None,100,70,53,17,4.07,62.27,1058.59
+2025-06-02,Monday,6,0,Dinner,Cafe,Desserts,26.2,6.1,None,150,43,40,3,1.21,53.92,161.76
+2025-01-03,Friday,1,0,Dinner,Quick Service,Desserts,33.9,0.0,Festival,150,74,61,13,3.76,107.29,1394.77
+2025-12-19,Friday,12,0,Dinner,Cafe,South Indian,30.5,9.7,Local Event,150,53,51,2,0.56,67.15,134.3
+2025-03-02,Sunday,3,1,Lunch,Family Restaurant,Snacks,33.0,0.9,None,125,90,75,15,4.75,99.42,1491.3
+2025-08-06,Wednesday,8,0,Breakfast,Quick Service,Snacks,23.2,6.7,None,200,36,23,13,3.62,138.04,1794.52
+2025-03-08,Saturday,3,1,Lunch,Cafe,South Indian,28.2,1.2,None,200,58,57,1,0.29,75.02,75.02
+2025-12-07,Sunday,12,1,Breakfast,Cafe,Desserts,24.3,3.2,None,75,26,21,5,1.63,48.32,241.6
+2025-09-27,Saturday,9,1,Breakfast,Family Restaurant,Chinese,28.2,0.0,Festival,50,57,47,10,2.9,58.57,585.7
+2025-10-21,Tuesday,10,0,Lunch,Cafe,Desserts,20.2,4.3,Local Event,100,54,50,4,1.16,56.34,225.36
+2025-06-07,Saturday,6,1,Dinner,Cafe,South Indian,33.2,7.5,None,200,46,30,16,3.99,89.01,1424.16
+2025-06-20,Friday,6,0,Dinner,Family Restaurant,Snacks,24.8,0.0,None,200,58,52,6,1.44,115.74,694.44
+2025-08-20,Wednesday,8,0,Dinner,Family Restaurant,South Indian,26.0,7.7,None,150,64,56,8,2.59,73.16,585.28
+2025-10-14,Tuesday,10,0,Dinner,Casual Dining,Desserts,25.5,0.3,None,150,58,41,17,5.8,58.86,1000.62
+2025-11-06,Thursday,11,0,Dinner,Cafe,Snacks,37.8,15.1,None,75,33,33,0,0.0,105.87,0.0
+2025-01-07,Tuesday,1,0,Dinner,Quick Service,South Indian,22.1,6.8,None,125,51,34,17,6.34,73.61,1251.37
+2025-08-31,Sunday,8,1,Breakfast,Family Restaurant,North Indian,34.4,5.6,None,75,44,22,22,8.22,99.64,2192.08
+2025-02-09,Sunday,2,1,Lunch,Family Restaurant,North Indian,31.7,2.0,Promotion,125,99,96,3,1.16,133.71,401.13
+2025-04-16,Wednesday,4,0,Breakfast,Casual Dining,South Indian,35.1,25.8,None,75,26,26,0,0.0,72.68,0.0
+2025-10-30,Thursday,10,0,Breakfast,Cafe,South Indian,25.6,0.9,None,50,35,14,21,7.66,93.69,1967.49
+2025-04-02,Wednesday,4,0,Breakfast,Family Restaurant,Desserts,35.2,0.0,None,200,41,35,6,2.84,121.65,729.9
+2025-10-18,Saturday,10,1,Dinner,Quick Service,Desserts,24.2,0.4,None,200,63,59,4,1.2,110.71,442.84
+2025-06-18,Wednesday,6,0,Dinner,Cafe,Chinese,38.3,9.0,None,150,54,29,25,6.17,116.39,2909.75
+2025-03-26,Wednesday,3,0,Dinner,Family Restaurant,Desserts,30.2,3.1,None,125,59,50,9,1.91,118.39,1065.51
+2025-05-02,Friday,5,0,Dinner,Family Restaurant,Snacks,38.1,2.4,None,75,63,59,4,1.77,96.29,385.16
+2025-07-13,Sunday,7,1,Dinner,Quick Service,South Indian,25.8,1.0,None,125,53,53,0,0.0,95.93,0.0
+2025-10-07,Tuesday,10,0,Breakfast,Family Restaurant,Snacks,24.7,2.2,None,150,28,14,14,3.57,113.29,1586.06
+2025-08-10,Sunday,8,1,Dinner,Family Restaurant,South Indian,21.6,0.8,None,125,55,55,0,0.0,111.28,0.0
+2025-12-07,Sunday,12,1,Dinner,Quick Service,Desserts,29.3,6.2,None,75,66,53,13,3.87,108.66,1412.58
+2025-11-13,Thursday,11,0,Dinner,Cafe,North Indian,32.8,1.6,None,100,42,36,6,2.43,81.3,487.8
+2025-10-02,Thursday,10,0,Breakfast,Cafe,South Indian,24.6,0.4,None,200,19,15,4,0.92,123.71,494.84
+2025-08-09,Saturday,8,1,Breakfast,Family Restaurant,North Indian,26.0,8.2,None,75,39,29,10,1.82,67.44,674.4
+2025-04-16,Wednesday,4,0,Dinner,Quick Service,Snacks,27.4,0.0,Local Event,200,70,69,1,0.47,59.79,59.79
+2025-05-31,Saturday,5,1,Breakfast,Family Restaurant,Desserts,31.3,3.2,Promotion,150,47,44,3,1.03,77.79,233.37
+2025-02-13,Thursday,2,0,Lunch,Cafe,Chinese,23.0,0.0,None,200,48,39,9,3.17,69.11,621.99
+2025-05-17,Saturday,5,1,Lunch,Casual Dining,South Indian,27.9,0.0,None,125,72,49,23,7.03,108.0,2484.0
+2025-12-05,Friday,12,0,Breakfast,Casual Dining,Desserts,28.1,1.3,None,75,15,15,0,0.0,66.95,0.0
+2025-06-05,Thursday,6,0,Breakfast,Family Restaurant,Snacks,37.6,0.7,Local Event,50,46,40,6,1.28,107.37,644.22
+2025-02-11,Tuesday,2,0,Dinner,Family Restaurant,Chinese,43.0,0.7,None,125,51,51,0,0.0,93.76,0.0
+2025-08-26,Tuesday,8,0,Dinner,Casual Dining,Chinese,24.1,6.9,Festival,100,60,60,0,0.0,59.48,0.0
+2025-12-18,Thursday,12,0,Dinner,Family Restaurant,Desserts,34.2,7.3,None,50,49,49,0,0.0,69.55,0.0
+2025-11-13,Thursday,11,0,Lunch,Cafe,North Indian,26.8,4.1,None,200,54,54,0,0.0,94.56,0.0
+2025-04-11,Friday,4,0,Lunch,Quick Service,South Indian,32.2,0.0,None,200,58,55,3,0.88,114.65,343.95
+2025-06-15,Sunday,6,1,Lunch,Cafe,South Indian,33.2,2.2,None,100,42,35,7,2.09,82.83,579.81
+2025-07-13,Sunday,7,1,Lunch,Family Restaurant,Snacks,29.3,16.9,Festival,150,100,85,15,4.22,67.12,1006.8
+2025-04-01,Tuesday,4,0,Breakfast,Quick Service,Desserts,33.6,23.9,None,100,29,21,8,2.0,73.03,584.24
+2025-04-09,Wednesday,4,0,Dinner,Quick Service,Snacks,31.0,8.3,None,100,46,43,3,0.58,54.04,162.12
+2025-03-28,Friday,3,0,Dinner,Quick Service,Snacks,25.5,0.0,None,125,60,51,9,2.97,47.39,426.51
+2025-12-30,Tuesday,12,0,Lunch,Cafe,North Indian,19.3,2.2,None,100,30,30,0,0.0,137.45,0.0
+2025-09-30,Tuesday,9,0,Lunch,Quick Service,Chinese,28.8,3.7,None,150,52,52,0,0.0,54.16,0.0
+2025-11-03,Monday,11,0,Lunch,Family Restaurant,South Indian,24.2,3.0,None,75,60,60,0,0.0,56.86,0.0
+2025-10-26,Sunday,10,1,Breakfast,Quick Service,North Indian,22.0,9.2,None,150,40,40,0,0.0,127.74,0.0
+2025-12-17,Wednesday,12,0,Lunch,Quick Service,Snacks,27.0,6.6,None,200,69,51,18,5.18,108.03,1944.54
+2025-02-08,Saturday,2,1,Lunch,Casual Dining,Desserts,35.0,0.0,Local Event,200,84,57,27,4.56,86.43,2333.61
+2025-11-18,Tuesday,11,0,Lunch,Family Restaurant,Desserts,26.4,0.5,None,50,64,64,0,0.0,106.66,0.0
+2025-01-25,Saturday,1,1,Lunch,Family Restaurant,Desserts,25.7,8.3,Local Event,50,69,66,3,0.7,133.82,401.46
+2025-06-23,Monday,6,0,Dinner,Casual Dining,South Indian,37.1,12.0,Festival,125,70,55,15,4.87,54.44,816.6
+2025-08-05,Tuesday,8,0,Lunch,Cafe,Desserts,34.9,3.8,None,200,56,44,12,3.16,68.15,817.8
+2025-05-11,Sunday,5,1,Breakfast,Family Restaurant,North Indian,34.9,13.3,None,200,54,38,16,4.68,126.73,2027.68
+2025-02-23,Sunday,2,1,Breakfast,Family Restaurant,Snacks,35.9,3.2,Promotion,200,57,47,10,4.01,119.16,1191.6
+2025-03-12,Wednesday,3,0,Breakfast,Quick Service,Desserts,38.7,0.0,None,50,27,20,7,2.5,139.45,976.15
+2025-10-29,Wednesday,10,0,Lunch,Family Restaurant,Desserts,30.7,6.0,None,125,61,58,3,1.2,74.82,224.46
+2025-04-27,Sunday,4,1,Dinner,Family Restaurant,Snacks,36.1,0.0,None,150,86,75,11,3.77,134.76,1482.36
+2025-04-24,Thursday,4,0,Dinner,Cafe,North Indian,36.0,12.9,None,125,33,33,0,0.0,77.65,0.0
+2025-12-04,Thursday,12,0,Lunch,Cafe,Chinese,29.6,5.6,None,150,37,32,5,0.98,112.93,564.65
+2025-02-22,Saturday,2,1,Lunch,Casual Dining,Snacks,25.5,0.3,Promotion,75,86,63,23,6.85,128.86,2963.78
+2025-12-01,Monday,12,0,Breakfast,Family Restaurant,Chinese,30.5,0.0,None,100,29,20,9,2.74,61.22,550.98
+2025-12-03,Wednesday,12,0,Lunch,Family Restaurant,Chinese,20.2,0.0,Local Event,100,66,66,0,0.0,64.54,0.0
+2025-08-07,Thursday,8,0,Lunch,Cafe,Chinese,23.0,0.7,None,200,55,41,14,3.98,100.19,1402.66
+2025-03-02,Sunday,3,1,Dinner,Cafe,Chinese,39.0,4.6,None,75,52,37,15,5.08,125.16,1877.4
+2025-02-26,Wednesday,2,0,Lunch,Casual Dining,South Indian,35.2,7.7,None,75,56,35,21,7.05,52.5,1102.5
+2025-04-14,Monday,4,0,Lunch,Cafe,Desserts,40.4,9.5,None,50,41,41,0,0.0,125.83,0.0
+2025-07-30,Wednesday,7,0,Lunch,Quick Service,South Indian,27.6,4.1,None,50,76,49,27,8.39,77.6,2095.2
+2025-02-26,Wednesday,2,0,Breakfast,Family Restaurant,Desserts,25.2,3.3,None,200,34,34,0,0.0,83.59,0.0
+2025-06-16,Monday,6,0,Dinner,Cafe,South Indian,29.8,1.4,None,200,51,30,21,4.21,77.29,1623.09
+2025-02-12,Wednesday,2,0,Breakfast,Cafe,Chinese,31.5,4.7,None,75,31,11,20,4.14,131.59,2631.8
+2025-07-17,Thursday,7,0,Breakfast,Quick Service,Chinese,29.4,0.3,None,150,28,27,1,0.16,57.43,57.43
+2025-01-08,Wednesday,1,0,Breakfast,Cafe,Chinese,34.7,0.0,None,125,21,21,0,0.0,99.56,0.0
+2025-09-16,Tuesday,9,0,Dinner,Quick Service,Chinese,23.7,3.0,None,200,61,51,10,3.67,59.07,590.7
+2025-01-21,Tuesday,1,0,Lunch,Family Restaurant,Desserts,30.8,7.1,None,75,78,63,15,5.74,133.22,1998.3
+2025-03-13,Thursday,3,0,Lunch,Cafe,South Indian,27.5,0.0,None,200,35,35,0,0.0,120.8,0.0
+2025-03-05,Wednesday,3,0,Lunch,Casual Dining,Desserts,34.7,0.7,None,100,64,41,23,6.45,67.21,1545.83
+2025-10-31,Friday,10,0,Breakfast,Family Restaurant,Snacks,25.0,2.8,None,150,28,14,14,4.36,73.29,1026.06
+2025-01-20,Monday,1,0,Dinner,Family Restaurant,Snacks,25.3,2.8,None,100,51,32,19,8.0,81.24,1543.56
+2025-06-06,Friday,6,0,Breakfast,Quick Service,South Indian,29.8,5.4,None,150,34,34,0,0.0,83.51,0.0
+2025-08-04,Monday,8,0,Breakfast,Quick Service,South Indian,26.1,16.5,None,100,18,18,0,0.0,122.65,0.0
+2025-07-08,Tuesday,7,0,Lunch,Casual Dining,North Indian,27.6,0.0,None,200,54,54,0,0.0,98.63,0.0
+2025-09-06,Saturday,9,1,Breakfast,Quick Service,North Indian,34.4,17.1,None,125,30,30,0,0.0,85.66,0.0
+2025-10-21,Tuesday,10,0,Breakfast,Cafe,Snacks,24.5,15.9,Festival,75,21,6,15,4.53,113.35,1700.25
+2025-05-24,Saturday,5,1,Dinner,Cafe,Desserts,31.2,7.8,Festival,200,62,55,7,2.05,88.5,619.5
+2025-10-30,Thursday,10,0,Lunch,Cafe,Chinese,15.0,3.7,None,150,35,35,0,0.0,57.18,0.0
+2025-04-27,Sunday,4,1,Lunch,Quick Service,Snacks,28.5,0.4,None,100,85,69,16,4.02,55.21,883.36
+2025-12-26,Friday,12,0,Lunch,Family Restaurant,South Indian,25.7,7.7,None,50,68,54,14,4.31,75.97,1063.58
+2025-07-04,Friday,7,0,Dinner,Family Restaurant,Snacks,25.6,4.0,Promotion,200,82,49,33,7.98,102.27,3374.91
+2025-09-26,Friday,9,0,Breakfast,Cafe,South Indian,32.4,1.4,None,150,21,21,0,0.0,57.81,0.0
+2025-11-16,Sunday,11,1,Breakfast,Quick Service,Snacks,24.7,7.5,None,150,32,29,3,1.07,97.26,291.78
+2025-10-17,Friday,10,0,Lunch,Casual Dining,North Indian,31.4,8.9,None,150,66,34,32,13.44,70.61,2259.52
+2025-11-07,Friday,11,0,Lunch,Cafe,Chinese,25.8,11.9,None,125,39,30,9,1.85,111.06,999.54
+2025-07-15,Tuesday,7,0,Dinner,Cafe,North Indian,29.2,0.1,None,75,39,24,15,6.8,47.68,715.2
+2025-01-16,Thursday,1,0,Lunch,Quick Service,Chinese,28.6,10.5,None,75,67,54,13,2.73,89.56,1164.28
+2025-06-29,Sunday,6,1,Breakfast,Family Restaurant,Desserts,31.0,1.5,None,50,36,36,0,0.0,49.97,0.0
+2025-03-08,Saturday,3,1,Lunch,Family Restaurant,Desserts,41.1,3.7,None,50,87,72,15,4.15,76.4,1146.0
+2025-11-21,Friday,11,0,Lunch,Cafe,North Indian,15.0,4.7,Promotion,150,55,51,4,1.65,46.48,185.92
+2025-03-28,Friday,3,0,Breakfast,Casual Dining,North Indian,22.5,9.8,Local Event,200,42,28,14,4.7,89.56,1253.84
+2025-03-25,Tuesday,3,0,Lunch,Cafe,Chinese,29.7,6.7,None,50,54,51,3,0.91,117.87,353.61
+2025-04-02,Wednesday,4,0,Breakfast,Quick Service,Snacks,33.1,1.4,None,125,44,26,18,4.76,54.52,981.36
+2025-08-23,Saturday,8,1,Dinner,Cafe,South Indian,30.5,0.0,None,50,45,45,0,0.0,114.85,0.0
+2025-07-28,Monday,7,0,Dinner,Quick Service,Snacks,31.4,5.4,Festival,100,65,60,5,2.0,100.5,502.5
+2025-12-13,Saturday,12,1,Lunch,Quick Service,Desserts,25.1,3.5,None,150,83,55,28,10.53,92.94,2602.32
+2025-06-01,Sunday,6,1,Dinner,Cafe,Desserts,36.1,0.0,None,150,38,34,4,1.66,101.95,407.8
+2025-04-14,Monday,4,0,Dinner,Cafe,Chinese,38.2,4.1,Festival,200,47,47,0,0.0,76.91,0.0
+2025-01-18,Saturday,1,1,Breakfast,Family Restaurant,North Indian,29.9,2.8,None,75,47,23,24,3.24,112.48,2699.52
+2025-01-03,Friday,1,0,Lunch,Cafe,North Indian,33.8,11.8,None,200,57,42,15,3.49,119.07,1786.05
+2025-05-17,Saturday,5,1,Lunch,Family Restaurant,Snacks,33.8,18.1,None,150,80,58,22,7.76,118.93,2616.46
+2025-12-04,Thursday,12,0,Breakfast,Family Restaurant,Chinese,24.2,8.7,None,100,37,25,12,3.53,70.6,847.2
+2025-07-11,Friday,7,0,Lunch,Casual Dining,South Indian,32.5,2.5,None,75,44,41,3,0.84,107.12,321.36
+2025-11-23,Sunday,11,1,Lunch,Family Restaurant,Snacks,26.1,3.2,None,50,70,64,6,1.46,59.07,354.42
+2025-02-07,Friday,2,0,Dinner,Casual Dining,South Indian,31.0,0.0,Promotion,200,48,48,0,0.0,92.06,0.0
+2025-02-04,Tuesday,2,0,Lunch,Cafe,Desserts,38.4,0.5,None,75,54,54,0,0.0,45.25,0.0
+2025-11-01,Saturday,11,1,Dinner,Quick Service,Chinese,15.0,2.3,Festival,75,65,61,4,1.42,63.39,253.56
+2025-02-08,Saturday,2,1,Lunch,Quick Service,North Indian,23.9,1.9,Local Event,100,73,73,0,0.0,105.01,0.0
+2025-01-19,Sunday,1,1,Breakfast,Cafe,South Indian,23.1,0.0,None,50,33,18,15,4.99,128.06,1920.9
+2025-05-28,Wednesday,5,0,Dinner,Casual Dining,South Indian,30.6,11.9,Promotion,150,69,48,21,4.75,49.66,1042.86
+2025-12-04,Thursday,12,0,Breakfast,Cafe,Desserts,25.7,13.4,None,150,20,10,10,3.11,98.06,980.6
+2025-09-09,Tuesday,9,0,Breakfast,Quick Service,Chinese,18.0,11.6,None,50,29,26,3,0.43,105.49,316.47
+2025-02-06,Thursday,2,0,Lunch,Casual Dining,Desserts,26.1,13.8,None,50,61,47,14,2.94,133.58,1870.12
+2025-11-02,Sunday,11,1,Dinner,Cafe,Desserts,21.2,22.5,None,50,40,40,0,0.0,107.24,0.0
+2025-11-04,Tuesday,11,0,Lunch,Cafe,South Indian,37.8,0.1,Festival,200,52,52,0,0.0,54.79,0.0
+2025-10-20,Monday,10,0,Breakfast,Family Restaurant,North Indian,34.0,21.7,None,100,32,14,18,3.49,58.94,1060.92
+2025-11-26,Wednesday,11,0,Lunch,Family Restaurant,Desserts,23.5,1.4,None,125,68,55,13,3.03,105.4,1370.2
+2025-03-29,Saturday,3,1,Lunch,Family Restaurant,Chinese,30.6,6.3,None,50,86,67,19,6.37,65.48,1244.12
+2025-12-24,Wednesday,12,0,Breakfast,Quick Service,Chinese,21.3,0.0,None,75,31,29,2,0.89,133.19,266.38
+2025-04-28,Monday,4,0,Lunch,Cafe,Chinese,23.5,0.9,None,125,40,29,11,3.68,132.47,1457.17
+2025-10-20,Monday,10,0,Breakfast,Quick Service,Snacks,24.4,8.9,None,75,31,10,21,7.75,135.12,2837.52
+2025-07-31,Thursday,7,0,Lunch,Casual Dining,Desserts,24.0,6.6,Local Event,125,63,53,10,2.96,72.83,728.3
+2025-10-12,Sunday,10,1,Lunch,Quick Service,Desserts,24.6,1.3,None,200,64,64,0,0.0,113.11,0.0
+2025-08-18,Monday,8,0,Dinner,Casual Dining,Snacks,19.0,3.2,Local Event,75,51,51,0,0.0,107.99,0.0
+2025-08-23,Saturday,8,1,Lunch,Quick Service,Chinese,23.2,0.6,None,125,64,64,0,0.0,48.38,0.0
+2025-08-13,Wednesday,8,0,Lunch,Cafe,North Indian,27.7,8.9,None,200,51,43,8,2.97,70.23,561.84
+2025-10-12,Sunday,10,1,Lunch,Quick Service,South Indian,26.8,12.6,None,200,56,56,0,0.0,64.64,0.0
+2025-09-27,Saturday,9,1,Dinner,Cafe,Snacks,27.6,0.1,None,50,38,38,0,0.0,80.23,0.0
+2025-02-19,Wednesday,2,0,Breakfast,Cafe,South Indian,24.4,2.7,Local Event,50,25,12,13,4.2,135.54,1762.02
+2025-10-29,Wednesday,10,0,Breakfast,Quick Service,Snacks,29.3,0.0,None,200,40,7,33,10.06,125.33,4135.89
+2025-07-15,Tuesday,7,0,Lunch,Quick Service,Chinese,25.0,3.9,None,200,69,59,10,2.05,72.88,728.8
+2025-04-28,Monday,4,0,Breakfast,Family Restaurant,Snacks,36.2,5.6,Festival,75,37,35,2,0.5,95.35,190.7
+2025-07-07,Monday,7,0,Breakfast,Cafe,Desserts,28.9,4.4,None,125,33,17,16,6.46,63.27,1012.32
+2025-12-19,Friday,12,0,Breakfast,Casual Dining,Chinese,20.1,5.1,None,125,35,21,14,4.28,71.36,999.04
+2025-11-10,Monday,11,0,Lunch,Family Restaurant,Chinese,24.0,2.3,Promotion,150,69,69,0,0.0,51.18,0.0
+2025-11-01,Saturday,11,1,Lunch,Quick Service,Chinese,27.4,2.4,None,150,50,50,0,0.0,106.05,0.0
+2025-06-18,Wednesday,6,0,Dinner,Family Restaurant,North Indian,34.1,2.2,Festival,100,80,80,0,0.0,107.41,0.0
+2025-10-14,Tuesday,10,0,Dinner,Quick Service,South Indian,24.3,0.8,None,200,58,46,12,2.69,124.66,1495.92
+2025-05-21,Wednesday,5,0,Lunch,Cafe,South Indian,40.1,1.2,Local Event,50,67,47,20,6.54,127.8,2556.0
+2025-09-08,Monday,9,0,Dinner,Quick Service,Snacks,30.6,5.3,None,50,45,45,0,0.0,60.21,0.0
+2025-08-22,Friday,8,0,Dinner,Quick Service,Desserts,25.7,11.9,None,200,63,40,23,7.88,115.59,2658.57
+2025-04-02,Wednesday,4,0,Dinner,Casual Dining,South Indian,36.8,0.0,None,75,38,38,0,0.0,57.8,0.0
+2025-04-08,Tuesday,4,0,Dinner,Quick Service,North Indian,42.7,2.3,Local Event,200,65,65,0,0.0,80.5,0.0
+2025-01-23,Thursday,1,0,Lunch,Casual Dining,Snacks,38.8,0.0,None,75,56,54,2,0.72,93.98,187.96
+2025-02-21,Friday,2,0,Lunch,Quick Service,Snacks,24.9,0.9,Promotion,100,84,74,10,3.05,49.7,497.0
+2025-06-08,Sunday,6,1,Lunch,Quick Service,Snacks,26.4,1.4,None,50,81,61,20,6.0,59.89,1197.8
+2025-06-24,Tuesday,6,0,Breakfast,Family Restaurant,Snacks,38.4,3.6,None,200,43,39,4,1.81,70.76,283.04
+2025-03-02,Sunday,3,1,Lunch,Family Restaurant,South Indian,27.2,3.4,Festival,100,96,96,0,0.0,57.12,0.0
+2025-06-02,Monday,6,0,Breakfast,Family Restaurant,North Indian,24.4,2.7,None,75,40,34,6,2.37,133.74,802.44
+2025-08-09,Saturday,8,1,Breakfast,Quick Service,Chinese,24.6,4.8,None,100,40,33,7,1.67,72.39,506.73
+2025-03-26,Wednesday,3,0,Dinner,Casual Dining,South Indian,34.6,0.0,None,50,41,41,0,0.0,92.61,0.0
+2025-05-04,Sunday,5,1,Dinner,Casual Dining,North Indian,32.0,3.6,None,150,45,45,0,0.0,139.67,0.0
+2025-05-15,Thursday,5,0,Lunch,Casual Dining,North Indian,29.2,6.9,None,50,66,55,11,3.13,98.83,1087.13
+2025-07-04,Friday,7,0,Lunch,Casual Dining,Desserts,25.6,0.0,None,100,56,50,6,1.41,84.09,504.54
+2025-05-14,Wednesday,5,0,Lunch,Cafe,North Indian,28.9,0.0,None,100,40,40,0,0.0,133.33,0.0
+2025-09-26,Friday,9,0,Dinner,Casual Dining,Desserts,21.1,8.8,None,50,44,32,12,3.32,66.14,793.68
+2025-04-30,Wednesday,4,0,Dinner,Casual Dining,Snacks,43.0,0.0,None,50,57,43,14,5.0,62.05,868.7
+2025-06-08,Sunday,6,1,Lunch,Family Restaurant,Snacks,32.5,0.8,None,125,79,73,6,1.47,95.86,575.16
+2025-05-19,Monday,5,0,Lunch,Family Restaurant,Desserts,36.9,6.6,None,100,61,52,9,2.94,85.59,770.31
+2025-03-08,Saturday,3,1,Lunch,Casual Dining,Desserts,30.0,0.0,None,50,81,68,13,2.82,120.71,1569.23
+2025-09-08,Monday,9,0,Dinner,Quick Service,North Indian,24.6,8.2,None,50,57,36,21,6.38,48.99,1028.79
+2025-03-27,Thursday,3,0,Dinner,Cafe,Chinese,28.9,0.3,None,150,40,33,7,1.68,103.68,725.76
+2025-04-19,Saturday,4,1,Lunch,Casual Dining,Chinese,19.7,0.0,None,150,65,59,6,1.89,112.51,675.06
+2025-10-17,Friday,10,0,Lunch,Family Restaurant,Desserts,18.1,0.4,None,125,65,57,8,2.28,137.33,1098.64
+2025-12-13,Saturday,12,1,Lunch,Casual Dining,South Indian,17.9,5.7,Festival,200,73,72,1,0.24,58.85,58.85
+2025-09-02,Tuesday,9,0,Lunch,Quick Service,Chinese,15.0,0.8,None,50,60,51,9,2.46,68.39,615.51
+2025-12-01,Monday,12,0,Dinner,Quick Service,North Indian,21.0,8.9,None,150,41,41,0,0.0,133.58,0.0
+2025-11-08,Saturday,11,1,Dinner,Quick Service,North Indian,32.2,2.9,None,150,60,51,9,2.05,104.91,944.19
+2025-06-25,Wednesday,6,0,Lunch,Casual Dining,Snacks,30.8,3.3,None,75,51,47,4,1.58,48.61,194.44
+2025-10-09,Thursday,10,0,Lunch,Casual Dining,North Indian,31.5,0.0,Festival,125,64,64,0,0.0,52.35,0.0
+2025-04-30,Wednesday,4,0,Lunch,Family Restaurant,Snacks,35.1,10.1,Promotion,150,97,63,34,5.64,119.62,4067.08
+2025-06-18,Wednesday,6,0,Breakfast,Family Restaurant,Desserts,34.9,6.9,Promotion,125,42,34,8,2.21,98.91,791.28
+2025-07-15,Tuesday,7,0,Lunch,Quick Service,Snacks,24.5,6.7,None,75,63,52,11,4.22,98.71,1085.81
+2025-12-17,Wednesday,12,0,Dinner,Family Restaurant,South Indian,29.6,2.0,None,125,43,43,0,0.0,128.59,0.0
+2025-11-06,Thursday,11,0,Dinner,Cafe,South Indian,29.2,0.0,None,150,35,21,14,5.95,67.9,950.6
+2025-06-28,Saturday,6,1,Breakfast,Casual Dining,Chinese,28.1,3.5,None,50,41,27,14,3.64,60.24,843.36
+2025-08-27,Wednesday,8,0,Dinner,Casual Dining,Chinese,29.8,5.4,None,125,49,41,8,2.84,103.31,826.48
+2025-03-15,Saturday,3,1,Dinner,Casual Dining,Snacks,35.3,5.5,None,125,45,45,0,0.0,128.83,0.0
+2025-10-21,Tuesday,10,0,Lunch,Quick Service,Chinese,22.3,4.7,None,100,60,55,5,1.76,70.2,351.0
+2025-07-21,Monday,7,0,Lunch,Family Restaurant,South Indian,23.4,4.5,Promotion,50,83,65,18,4.03,109.72,1974.96
+2025-07-14,Monday,7,0,Lunch,Quick Service,Desserts,23.1,0.3,None,50,71,52,19,4.83,59.48,1130.12
+2025-10-07,Tuesday,10,0,Dinner,Quick Service,Desserts,25.4,0.5,None,150,46,46,0,0.0,61.33,0.0
+2025-08-20,Wednesday,8,0,Breakfast,Casual Dining,Snacks,28.6,0.0,Festival,150,19,19,0,0.0,130.64,0.0
+2025-01-27,Monday,1,0,Breakfast,Quick Service,Snacks,25.0,9.0,None,100,23,23,0,0.0,56.21,0.0
+2025-04-16,Wednesday,4,0,Lunch,Quick Service,Desserts,33.1,17.4,None,200,57,57,0,0.0,47.31,0.0
+2025-03-06,Thursday,3,0,Breakfast,Casual Dining,Chinese,35.3,31.8,None,200,34,20,14,4.62,118.62,1660.68
+2025-09-26,Friday,9,0,Lunch,Casual Dining,South Indian,28.6,3.9,None,125,35,35,0,0.0,79.44,0.0
+2025-01-13,Monday,1,0,Dinner,Quick Service,Snacks,36.8,4.5,None,125,52,46,6,1.66,82.68,496.08
+2025-03-15,Saturday,3,1,Breakfast,Family Restaurant,Chinese,38.8,2.2,None,200,57,45,12,3.1,120.99,1451.88
+2025-08-07,Thursday,8,0,Lunch,Family Restaurant,Snacks,22.0,3.8,None,125,65,53,12,4.03,62.09,745.08
+2025-09-11,Thursday,9,0,Dinner,Cafe,Snacks,34.0,0.0,None,200,46,37,9,2.94,106.78,961.02
+2025-07-03,Thursday,7,0,Lunch,Cafe,Chinese,26.3,2.1,None,200,35,35,0,0.0,74.79,0.0
+2025-11-11,Tuesday,11,0,Lunch,Family Restaurant,North Indian,30.8,0.1,None,75,54,54,0,0.0,54.91,0.0
+2025-12-02,Tuesday,12,0,Lunch,Casual Dining,Chinese,27.3,1.6,Local Event,125,73,57,16,4.08,110.31,1764.96
+2025-02-18,Tuesday,2,0,Breakfast,Casual Dining,Snacks,28.9,0.3,None,150,31,17,14,4.66,75.27,1053.78
+2025-12-14,Sunday,12,1,Breakfast,Quick Service,Snacks,18.0,5.4,None,150,36,21,15,3.72,127.33,1909.95
+2025-08-13,Wednesday,8,0,Dinner,Cafe,Chinese,26.1,6.2,None,100,31,31,0,0.0,132.31,0.0
+2025-08-21,Thursday,8,0,Lunch,Quick Service,Chinese,19.2,4.3,Local Event,200,68,57,11,3.43,125.66,1382.26
+2025-02-04,Tuesday,2,0,Lunch,Cafe,Desserts,35.8,0.5,None,100,40,23,17,5.05,75.62,1285.54
+2025-08-15,Friday,8,0,Breakfast,Family Restaurant,North Indian,34.6,0.0,None,100,41,41,0,0.0,67.48,0.0
+2025-09-22,Monday,9,0,Dinner,Quick Service,South Indian,21.6,6.3,None,50,69,37,32,10.07,129.82,4154.24
+2025-07-31,Thursday,7,0,Breakfast,Cafe,Snacks,30.5,2.8,None,75,27,16,11,2.24,88.03,968.33
+2025-01-31,Friday,1,0,Dinner,Casual Dining,Desserts,25.4,0.0,None,200,45,45,0,0.0,112.24,0.0
+2025-07-10,Thursday,7,0,Lunch,Casual Dining,Snacks,25.9,3.5,None,150,39,39,0,0.0,123.58,0.0
+2025-12-08,Monday,12,0,Lunch,Cafe,Chinese,30.9,4.5,Local Event,150,39,39,0,0.0,71.38,0.0
+2025-09-22,Monday,9,0,Lunch,Quick Service,North Indian,25.3,0.0,None,200,70,44,26,5.26,56.31,1464.06
+2025-02-20,Thursday,2,0,Breakfast,Family Restaurant,Chinese,39.7,5.6,None,75,29,17,12,4.14,104.36,1252.32
+2025-12-17,Wednesday,12,0,Lunch,Casual Dining,South Indian,24.6,0.0,None,125,53,48,5,1.4,101.07,505.35
+2025-12-16,Tuesday,12,0,Dinner,Casual Dining,Chinese,32.0,0.2,None,100,53,46,7,1.81,70.67,494.69
+2025-03-03,Monday,3,0,Breakfast,Family Restaurant,North Indian,33.0,0.0,None,200,48,34,14,3.36,100.55,1407.7
+2025-10-20,Monday,10,0,Lunch,Quick Service,North Indian,29.0,0.0,None,100,58,50,8,3.12,120.08,960.64
+2025-05-29,Thursday,5,0,Lunch,Casual Dining,Chinese,30.2,0.0,Promotion,200,69,66,3,0.55,78.25,234.75
+2025-08-05,Tuesday,8,0,Breakfast,Family Restaurant,Desserts,26.8,8.9,Festival,150,39,18,21,5.49,68.02,1428.42
+2025-06-12,Thursday,6,0,Lunch,Casual Dining,North Indian,30.4,1.8,Festival,150,73,73,0,0.0,113.88,0.0
+2025-10-13,Monday,10,0,Breakfast,Quick Service,Desserts,20.8,1.1,None,200,23,22,1,0.43,119.66,119.66
+2025-12-30,Tuesday,12,0,Lunch,Casual Dining,Chinese,30.3,9.7,None,150,58,58,0,0.0,135.66,0.0
+2025-10-18,Saturday,10,1,Breakfast,Family Restaurant,Desserts,28.3,9.2,None,75,39,32,7,1.83,59.02,413.14
+2025-12-06,Saturday,12,1,Lunch,Family Restaurant,North Indian,30.0,1.3,None,125,91,62,29,12.38,129.48,3754.92
+2025-12-12,Friday,12,0,Lunch,Family Restaurant,Desserts,34.7,4.2,None,100,70,61,9,2.03,117.68,1059.12
+2025-02-02,Sunday,2,1,Lunch,Casual Dining,Snacks,38.2,0.7,None,50,76,59,17,5.76,111.68,1898.56
+2025-04-03,Thursday,4,0,Lunch,Family Restaurant,Snacks,31.1,2.4,None,125,64,64,0,0.0,74.74,0.0
+2025-09-21,Sunday,9,1,Dinner,Casual Dining,Chinese,27.4,0.0,None,100,58,49,9,2.32,47.11,423.99
+2025-08-04,Monday,8,0,Lunch,Family Restaurant,Chinese,23.9,5.0,Festival,100,81,70,11,4.06,93.22,1025.42
+2025-01-19,Sunday,1,1,Dinner,Family Restaurant,Chinese,29.1,10.1,None,50,70,48,22,6.25,72.15,1587.3
+2025-02-04,Tuesday,2,0,Lunch,Quick Service,Desserts,28.0,8.5,None,125,68,59,9,3.32,72.53,652.77
+2025-07-09,Wednesday,7,0,Lunch,Family Restaurant,Snacks,37.1,3.0,None,125,70,70,0,0.0,133.08,0.0
+2025-08-13,Wednesday,8,0,Breakfast,Cafe,South Indian,28.8,0.0,None,50,40,18,22,7.56,59.53,1309.66
+2025-03-03,Monday,3,0,Lunch,Cafe,Snacks,31.4,0.5,Promotion,125,68,59,9,2.62,133.75,1203.75
+2025-03-04,Tuesday,3,0,Dinner,Family Restaurant,Desserts,38.4,2.4,None,75,72,65,7,2.8,92.86,650.02
+2025-02-17,Monday,2,0,Dinner,Quick Service,Snacks,20.1,0.0,Promotion,50,71,61,10,3.17,124.64,1246.4
+2025-07-26,Saturday,7,1,Lunch,Cafe,Chinese,18.9,0.0,Local Event,100,71,46,25,10.19,71.94,1798.5
+2025-01-03,Friday,1,0,Lunch,Quick Service,North Indian,33.0,12.7,None,100,52,52,0,0.0,105.22,0.0
+2025-07-28,Monday,7,0,Breakfast,Casual Dining,Snacks,29.3,7.5,None,200,38,32,6,1.87,97.88,587.28
+2025-06-23,Monday,6,0,Breakfast,Quick Service,Snacks,32.3,5.4,None,50,26,26,0,0.0,132.8,0.0
+2025-06-20,Friday,6,0,Dinner,Quick Service,North Indian,24.4,6.7,None,100,51,51,0,0.0,62.03,0.0
+2025-09-05,Friday,9,0,Breakfast,Family Restaurant,Chinese,25.4,0.0,None,150,34,20,14,4.94,64.43,902.02
+2025-07-10,Thursday,7,0,Breakfast,Casual Dining,North Indian,39.0,0.0,Promotion,75,44,28,16,2.55,135.15,2162.4
+2025-09-23,Tuesday,9,0,Dinner,Casual Dining,South Indian,29.7,3.9,None,200,39,39,0,0.0,54.31,0.0
+2025-10-06,Monday,10,0,Dinner,Casual Dining,South Indian,25.8,4.3,Festival,150,56,54,2,0.83,105.29,210.58
+2025-12-02,Tuesday,12,0,Lunch,Cafe,South Indian,24.8,0.0,None,200,46,46,0,0.0,50.75,0.0
+2025-10-19,Sunday,10,1,Lunch,Cafe,Chinese,23.0,3.5,Promotion,200,58,34,24,9.16,52.31,1255.44
+2025-07-08,Tuesday,7,0,Dinner,Cafe,Chinese,18.4,2.5,None,50,45,33,12,4.43,101.73,1220.76
+2025-06-29,Sunday,6,1,Breakfast,Family Restaurant,Chinese,32.3,8.2,None,100,68,37,31,8.35,97.38,3018.78
+2025-03-28,Friday,3,0,Lunch,Casual Dining,Desserts,36.7,4.3,None,150,63,44,19,3.43,99.44,1889.36
+2025-08-07,Thursday,8,0,Lunch,Family Restaurant,North Indian,19.1,14.0,None,50,58,58,0,0.0,90.0,0.0
+2025-02-20,Thursday,2,0,Dinner,Family Restaurant,North Indian,27.7,1.4,Festival,100,70,68,2,0.93,115.52,231.04
+2025-12-06,Saturday,12,1,Dinner,Cafe,North Indian,21.2,0.0,None,150,42,36,6,1.56,139.26,835.56
+2025-11-05,Wednesday,11,0,Dinner,Quick Service,North Indian,20.7,13.7,None,150,42,42,0,0.0,71.2,0.0
+2025-02-13,Thursday,2,0,Breakfast,Casual Dining,Chinese,31.3,4.6,None,100,33,32,1,0.25,75.73,75.73
+2025-10-14,Tuesday,10,0,Lunch,Cafe,North Indian,15.0,2.5,None,200,46,41,5,2.03,75.69,378.45
+2025-02-12,Wednesday,2,0,Lunch,Casual Dining,North Indian,34.1,0.0,None,150,56,56,0,0.0,117.51,0.0
+2025-09-21,Sunday,9,1,Dinner,Casual Dining,Snacks,29.3,1.4,None,50,69,48,21,5.8,78.06,1639.26
+2025-02-02,Sunday,2,1,Breakfast,Casual Dining,Desserts,29.7,1.2,None,75,33,33,0,0.0,109.29,0.0
+2025-06-28,Saturday,6,1,Breakfast,Quick Service,North Indian,18.6,0.0,None,200,39,39,0,0.0,87.36,0.0
+2025-08-29,Friday,8,0,Dinner,Quick Service,South Indian,22.0,0.0,None,50,56,40,16,4.09,102.74,1643.84
+2025-09-24,Wednesday,9,0,Lunch,Family Restaurant,North Indian,31.7,1.1,Promotion,50,85,62,23,5.39,123.76,2846.48
+2025-06-02,Monday,6,0,Dinner,Quick Service,Chinese,17.1,6.8,None,100,62,52,10,4.01,93.84,938.4
+2025-12-03,Wednesday,12,0,Breakfast,Family Restaurant,Desserts,25.3,10.9,None,200,33,23,10,3.21,90.14,901.4
+2025-10-10,Friday,10,0,Dinner,Casual Dining,South Indian,19.1,8.5,None,150,52,27,25,5.29,70.36,1759.0
+2025-03-18,Tuesday,3,0,Breakfast,Family Restaurant,South Indian,36.5,9.0,None,50,32,32,0,0.0,94.01,0.0
+2025-09-02,Tuesday,9,0,Breakfast,Casual Dining,Chinese,22.2,0.0,None,100,32,17,15,3.63,69.93,1048.95
+2025-09-24,Wednesday,9,0,Lunch,Family Restaurant,Desserts,27.6,4.0,None,200,71,63,8,1.87,125.14,1001.12
+2025-05-02,Friday,5,0,Lunch,Cafe,Chinese,35.3,5.5,None,75,59,46,13,2.3,81.94,1065.22
+2025-09-27,Saturday,9,1,Lunch,Family Restaurant,Desserts,34.7,5.9,None,125,63,63,0,0.0,57.27,0.0
+2025-11-24,Monday,11,0,Breakfast,Quick Service,Snacks,24.5,2.4,None,100,21,21,0,0.0,67.8,0.0
+2025-10-26,Sunday,10,1,Breakfast,Family Restaurant,South Indian,26.9,3.4,Promotion,150,52,36,16,4.6,95.79,1532.64
+2025-10-06,Monday,10,0,Dinner,Casual Dining,Chinese,17.6,8.3,None,150,26,26,0,0.0,132.05,0.0
+2025-08-20,Wednesday,8,0,Breakfast,Casual Dining,Snacks,33.0,5.3,None,150,31,17,14,4.22,73.55,1029.7
+2025-04-09,Wednesday,4,0,Dinner,Quick Service,Chinese,29.2,6.4,None,50,64,60,4,1.23,70.12,280.48
+2025-10-18,Saturday,10,1,Dinner,Family Restaurant,South Indian,22.2,1.0,None,100,59,55,4,1.42,83.62,334.48
+2025-05-13,Tuesday,5,0,Breakfast,Cafe,South Indian,32.4,6.1,None,150,23,23,0,0.0,136.94,0.0
+2025-07-14,Monday,7,0,Dinner,Family Restaurant,Snacks,21.2,3.3,None,100,50,50,0,0.0,125.3,0.0
+2025-04-25,Friday,4,0,Lunch,Cafe,Chinese,34.1,7.5,None,150,45,37,8,2.72,59.22,473.76
+2025-04-25,Friday,4,0,Lunch,Quick Service,Chinese,37.8,0.3,None,125,64,38,26,8.54,103.31,2686.06
+2025-02-27,Thursday,2,0,Breakfast,Casual Dining,North Indian,32.5,6.9,None,100,25,25,0,0.0,120.23,0.0
+2025-12-17,Wednesday,12,0,Dinner,Casual Dining,North Indian,19.1,1.4,Promotion,50,51,47,4,1.54,117.96,471.84
+2025-02-23,Sunday,2,1,Lunch,Quick Service,Snacks,30.4,6.9,None,200,70,59,11,2.69,91.44,1005.84
+2025-02-01,Saturday,2,1,Lunch,Family Restaurant,South Indian,34.7,4.0,Local Event,150,89,80,9,3.11,114.52,1030.68
+2025-12-08,Monday,12,0,Dinner,Family Restaurant,Chinese,17.6,2.9,None,200,68,46,22,5.82,100.44,2209.68
+2025-07-22,Tuesday,7,0,Lunch,Cafe,North Indian,23.6,1.6,Promotion,75,52,52,0,0.0,64.14,0.0
+2025-06-09,Monday,6,0,Dinner,Cafe,Snacks,35.4,2.5,None,75,45,38,7,1.57,50.33,352.31
+2025-09-27,Saturday,9,1,Dinner,Cafe,Snacks,26.9,1.2,None,75,40,40,0,0.0,80.1,0.0
+2025-05-20,Tuesday,5,0,Dinner,Cafe,Chinese,34.5,1.6,Local Event,50,44,44,0,0.0,50.88,0.0
+2025-02-16,Sunday,2,1,Dinner,Quick Service,North Indian,40.3,5.1,None,75,54,54,0,0.0,82.53,0.0
+2025-09-24,Wednesday,9,0,Dinner,Cafe,North Indian,27.9,0.0,None,75,28,28,0,0.0,123.74,0.0
+2025-03-06,Thursday,3,0,Breakfast,Family Restaurant,North Indian,35.8,6.8,Promotion,200,35,35,0,0.0,125.21,0.0
+2025-07-21,Monday,7,0,Dinner,Family Restaurant,North Indian,42.6,6.9,None,75,62,61,1,0.35,48.24,48.24
+2025-12-13,Saturday,12,1,Dinner,Cafe,Snacks,25.9,1.7,None,125,53,47,6,1.99,51.61,309.66
+2025-12-08,Monday,12,0,Lunch,Family Restaurant,South Indian,23.0,3.5,None,125,53,53,0,0.0,108.64,0.0
+2025-05-12,Monday,5,0,Lunch,Cafe,South Indian,34.6,0.0,Festival,100,60,60,0,0.0,92.5,0.0
+2025-10-12,Sunday,10,1,Dinner,Casual Dining,Chinese,27.2,4.7,Festival,200,61,61,0,0.0,59.19,0.0
+2025-08-12,Tuesday,8,0,Breakfast,Casual Dining,North Indian,24.4,0.0,None,50,25,18,7,2.21,121.53,850.71
+2025-06-24,Tuesday,6,0,Lunch,Cafe,Desserts,25.8,10.5,None,200,54,31,23,7.17,65.57,1508.11
+2025-02-21,Friday,2,0,Lunch,Family Restaurant,Snacks,42.5,0.0,None,150,69,60,9,3.88,52.42,471.78
+2025-05-18,Sunday,5,1,Breakfast,Quick Service,Snacks,34.1,2.4,None,75,43,35,8,2.55,116.2,929.6
+2025-08-26,Tuesday,8,0,Dinner,Casual Dining,Chinese,23.3,3.7,Festival,150,72,61,11,3.58,102.77,1130.47
+2025-12-27,Saturday,12,1,Breakfast,Cafe,Chinese,31.6,5.1,None,100,32,32,0,0.0,82.47,0.0
+2025-01-02,Thursday,1,0,Dinner,Family Restaurant,Chinese,28.5,2.8,None,200,53,42,11,3.44,110.81,1218.91
+2025-09-19,Friday,9,0,Dinner,Casual Dining,South Indian,24.3,4.1,None,50,47,35,12,3.15,131.58,1578.96
+2025-11-05,Wednesday,11,0,Lunch,Cafe,Chinese,28.3,1.6,None,50,39,36,3,1.04,48.25,144.75
+2025-12-14,Sunday,12,1,Dinner,Quick Service,Desserts,20.5,0.0,Festival,125,82,79,3,0.95,104.63,313.89
+2025-06-04,Wednesday,6,0,Breakfast,Casual Dining,North Indian,32.8,2.6,None,200,34,20,14,6.29,65.73,920.22
+2025-02-13,Thursday,2,0,Dinner,Family Restaurant,South Indian,40.6,5.9,None,50,52,52,0,0.0,90.04,0.0
+2025-04-09,Wednesday,4,0,Dinner,Cafe,Chinese,35.3,0.0,Local Event,150,50,32,18,5.01,85.28,1535.04
+2025-11-07,Friday,11,0,Breakfast,Family Restaurant,North Indian,23.7,3.7,Promotion,200,34,32,2,0.74,82.05,164.1
+2025-11-17,Monday,11,0,Dinner,Quick Service,Snacks,23.0,16.4,None,100,53,41,12,4.1,63.08,756.96
+2025-08-21,Thursday,8,0,Lunch,Casual Dining,Desserts,24.9,2.4,Promotion,200,72,55,17,7.0,121.25,2061.25
+2025-02-14,Friday,2,0,Lunch,Family Restaurant,Desserts,29.7,2.6,None,150,73,62,11,3.12,81.05,891.55
+2025-02-14,Friday,2,0,Dinner,Family Restaurant,North Indian,29.1,0.0,Local Event,75,67,67,0,0.0,129.28,0.0
+2025-06-24,Tuesday,6,0,Lunch,Family Restaurant,Desserts,35.6,0.0,None,200,78,57,21,6.57,78.69,1652.49
+2025-08-03,Sunday,8,1,Lunch,Casual Dining,South Indian,18.3,0.0,None,150,56,49,7,2.27,124.77,873.39
+2025-01-12,Sunday,1,1,Lunch,Family Restaurant,North Indian,33.3,5.7,None,50,68,68,0,0.0,96.72,0.0
+2025-09-08,Monday,9,0,Lunch,Casual Dining,North Indian,23.6,0.0,None,125,32,32,0,0.0,81.63,0.0
+2025-07-18,Friday,7,0,Dinner,Family Restaurant,Desserts,30.9,4.6,None,125,58,58,0,0.0,111.88,0.0
+2025-01-05,Sunday,1,1,Breakfast,Family Restaurant,Snacks,23.4,0.2,None,150,36,36,0,0.0,119.73,0.0
+2025-02-04,Tuesday,2,0,Lunch,Casual Dining,North Indian,37.6,0.0,None,150,63,54,9,2.87,90.86,817.74
+2025-06-15,Sunday,6,1,Breakfast,Casual Dining,South Indian,37.2,6.5,None,100,25,25,0,0.0,85.41,0.0
+2025-09-21,Sunday,9,1,Dinner,Family Restaurant,Snacks,30.3,1.3,None,75,61,61,0,0.0,99.85,0.0
+2025-10-29,Wednesday,10,0,Lunch,Casual Dining,Snacks,17.4,5.1,None,75,56,56,0,0.0,100.59,0.0
+2025-06-07,Saturday,6,1,Lunch,Casual Dining,Desserts,35.1,0.0,Promotion,50,74,74,0,0.0,85.42,0.0
+2025-04-18,Friday,4,0,Lunch,Cafe,Chinese,35.0,0.0,Promotion,125,62,44,18,7.12,116.98,2105.64
+2025-12-20,Saturday,12,1,Lunch,Family Restaurant,South Indian,19.0,3.2,None,200,70,70,0,0.0,82.97,0.0
+2025-06-17,Tuesday,6,0,Dinner,Quick Service,North Indian,30.9,0.0,None,50,56,47,9,3.12,88.03,792.27
+2025-04-26,Saturday,4,1,Lunch,Family Restaurant,Snacks,34.8,3.2,None,150,86,69,17,4.86,102.51,1742.67
+2025-06-11,Wednesday,6,0,Lunch,Casual Dining,North Indian,33.8,3.3,None,125,66,52,14,4.59,138.75,1942.5
+2025-01-05,Sunday,1,1,Dinner,Quick Service,South Indian,29.9,2.7,Festival,75,83,83,0,0.0,69.77,0.0
+2025-04-21,Monday,4,0,Lunch,Casual Dining,Desserts,34.5,8.9,None,75,54,54,0,0.0,67.04,0.0
+2025-07-08,Tuesday,7,0,Lunch,Casual Dining,Chinese,36.4,4.5,None,75,55,50,5,2.07,61.8,309.0
+2025-12-02,Tuesday,12,0,Lunch,Cafe,North Indian,33.1,16.4,None,150,49,45,4,1.44,110.5,442.0
+2025-09-27,Saturday,9,1,Breakfast,Cafe,Chinese,15.0,1.3,None,75,19,19,0,0.0,87.66,0.0
+2025-10-13,Monday,10,0,Dinner,Quick Service,Snacks,23.4,0.0,Festival,150,65,55,10,4.52,81.92,819.2
+2025-07-18,Friday,7,0,Dinner,Casual Dining,South Indian,28.2,0.4,None,100,47,38,9,2.94,64.39,579.51
+2025-02-10,Monday,2,0,Dinner,Quick Service,Chinese,22.2,1.5,None,50,54,52,2,0.49,129.66,259.32
+2025-05-23,Friday,5,0,Dinner,Casual Dining,North Indian,32.9,17.5,None,50,44,44,0,0.0,87.1,0.0
+2025-12-30,Tuesday,12,0,Lunch,Cafe,South Indian,33.2,2.9,Promotion,100,41,37,4,1.7,102.73,410.92
+2025-01-17,Friday,1,0,Lunch,Family Restaurant,South Indian,23.6,9.3,None,100,70,67,3,1.34,55.69,167.07
+2025-11-17,Monday,11,0,Lunch,Quick Service,Chinese,27.2,1.1,Festival,150,85,69,16,6.25,55.26,884.16
+2025-09-07,Sunday,9,1,Dinner,Cafe,Chinese,21.0,0.7,Promotion,100,39,39,0,0.0,51.4,0.0
+2025-04-14,Monday,4,0,Dinner,Casual Dining,Chinese,29.6,0.0,None,50,55,36,19,7.7,79.9,1518.1
+2025-10-11,Saturday,10,1,Lunch,Casual Dining,Snacks,32.4,17.1,Promotion,75,80,65,15,5.38,89.92,1348.8
+2025-11-02,Sunday,11,1,Dinner,Cafe,Chinese,22.8,12.3,None,125,47,31,16,5.49,68.23,1091.68
+2025-01-16,Thursday,1,0,Dinner,Quick Service,Chinese,31.3,3.8,None,100,51,41,10,3.58,78.22,782.2
+2025-02-08,Saturday,2,1,Dinner,Family Restaurant,Desserts,21.6,1.8,None,150,62,59,3,1.11,45.59,136.77
+2025-08-31,Sunday,8,1,Dinner,Casual Dining,Snacks,36.3,3.1,None,200,57,57,0,0.0,78.35,0.0
+2025-12-31,Wednesday,12,0,Lunch,Quick Service,Desserts,30.0,0.0,None,100,63,57,6,2.23,56.32,337.92
+2025-01-09,Thursday,1,0,Lunch,Family Restaurant,North Indian,28.1,5.1,None,125,68,55,13,5.49,57.2,743.6
+2025-08-31,Sunday,8,1,Lunch,Family Restaurant,Snacks,29.9,11.4,None,150,73,54,19,5.81,45.43,863.17
+2025-02-19,Wednesday,2,0,Lunch,Cafe,Snacks,24.0,11.9,None,75,39,26,13,3.87,111.16,1445.08
+2025-08-26,Tuesday,8,0,Dinner,Cafe,Chinese,32.9,0.0,None,125,43,30,13,4.59,133.47,1735.11
+2025-08-16,Saturday,8,1,Lunch,Quick Service,South Indian,25.4,9.2,None,75,71,57,14,3.84,104.05,1456.7
+2025-02-03,Monday,2,0,Lunch,Casual Dining,Chinese,30.0,0.0,None,125,60,51,9,2.05,54.14,487.26
+2025-09-06,Saturday,9,1,Lunch,Casual Dining,Desserts,23.1,0.0,Promotion,150,75,50,25,10.01,139.02,3475.5
+2025-11-24,Monday,11,0,Lunch,Family Restaurant,Snacks,22.6,9.5,Promotion,50,87,69,18,5.19,137.68,2478.24
+2025-11-12,Wednesday,11,0,Lunch,Casual Dining,South Indian,29.0,0.8,None,75,51,51,0,0.0,89.48,0.0
+2025-01-11,Saturday,1,1,Breakfast,Cafe,North Indian,30.3,8.3,None,50,38,36,2,0.55,55.25,110.5
+2025-03-31,Monday,3,0,Dinner,Casual Dining,Chinese,35.7,7.6,None,50,47,31,16,6.55,113.47,1815.52
+2025-03-29,Saturday,3,1,Lunch,Cafe,Desserts,32.4,6.6,Local Event,50,69,49,20,7.59,136.34,2726.8
+2025-06-15,Sunday,6,1,Lunch,Quick Service,Chinese,33.6,3.1,None,150,82,60,22,6.67,118.98,2617.56
+2025-02-22,Saturday,2,1,Breakfast,Cafe,Desserts,28.9,0.0,Local Event,200,33,30,3,0.71,104.3,312.9
+2025-11-08,Saturday,11,1,Lunch,Quick Service,Snacks,36.7,1.6,None,100,81,54,27,7.98,103.03,2781.81
+2025-10-11,Saturday,10,1,Dinner,Cafe,North Indian,17.2,12.1,None,200,45,45,0,0.0,137.9,0.0
+2025-10-23,Thursday,10,0,Dinner,Quick Service,South Indian,31.3,8.5,None,150,44,44,0,0.0,51.95,0.0
+2025-03-14,Friday,3,0,Breakfast,Family Restaurant,Desserts,39.3,1.7,None,150,36,31,5,1.64,59.21,296.05
+2025-01-06,Monday,1,0,Dinner,Family Restaurant,Chinese,24.7,1.7,Festival,150,84,83,1,0.33,123.93,123.93
+2025-11-29,Saturday,11,1,Dinner,Cafe,Desserts,36.7,6.0,None,75,51,39,12,4.48,58.79,705.48
+2025-04-16,Wednesday,4,0,Lunch,Family Restaurant,Desserts,38.0,3.4,None,125,65,65,0,0.0,81.41,0.0
+2025-08-28,Thursday,8,0,Breakfast,Family Restaurant,Chinese,31.9,1.9,None,125,31,20,11,3.87,71.74,789.14
+2025-11-28,Friday,11,0,Lunch,Quick Service,South Indian,25.7,5.4,None,125,60,42,18,4.52,68.13,1226.34
+2025-01-14,Tuesday,1,0,Dinner,Cafe,Desserts,27.9,5.2,None,150,36,29,7,3.49,47.44,332.08
+2025-01-02,Thursday,1,0,Lunch,Casual Dining,Chinese,28.0,0.5,None,50,74,69,5,1.5,98.79,493.95
+2025-01-02,Thursday,1,0,Lunch,Family Restaurant,South Indian,31.0,4.4,None,150,70,67,3,1.0,83.12,249.36
+2025-02-27,Thursday,2,0,Dinner,Family Restaurant,Chinese,38.0,4.9,None,150,61,58,3,1.08,97.4,292.2
+2025-01-19,Sunday,1,1,Dinner,Family Restaurant,South Indian,29.9,2.7,None,50,76,54,22,6.41,73.93,1626.46
+2025-10-27,Monday,10,0,Dinner,Casual Dining,North Indian,20.4,0.2,None,100,43,43,0,0.0,134.44,0.0
+2025-08-10,Sunday,8,1,Dinner,Quick Service,North Indian,31.1,1.4,None,200,68,45,23,7.35,101.18,2327.14
+2025-12-24,Wednesday,12,0,Breakfast,Quick Service,Chinese,31.6,0.0,None,50,19,12,7,1.79,136.31,954.17
+2025-10-20,Monday,10,0,Dinner,Quick Service,Chinese,28.3,4.5,Festival,50,63,56,7,2.45,78.25,547.75
+2025-12-18,Thursday,12,0,Lunch,Family Restaurant,Desserts,30.7,0.0,None,150,74,74,0,0.0,45.22,0.0
+2025-03-29,Saturday,3,1,Breakfast,Cafe,North Indian,31.1,13.2,None,75,42,40,2,0.89,119.22,238.44
+2025-04-16,Wednesday,4,0,Dinner,Casual Dining,Snacks,28.4,10.9,Promotion,150,56,52,4,1.5,123.6,494.4
+2025-11-07,Friday,11,0,Breakfast,Casual Dining,Desserts,21.2,5.0,None,200,19,13,6,2.19,50.58,303.48
+2025-03-31,Monday,3,0,Breakfast,Quick Service,Snacks,24.3,8.0,None,100,36,13,23,4.56,104.41,2401.43
+2025-01-21,Tuesday,1,0,Lunch,Cafe,North Indian,30.2,7.5,None,100,42,41,1,0.26,107.8,107.8
+2025-09-02,Tuesday,9,0,Lunch,Casual Dining,Snacks,25.1,3.5,None,100,52,49,3,1.25,58.84,176.52
+2025-10-20,Monday,10,0,Breakfast,Family Restaurant,North Indian,22.8,2.0,None,100,35,29,6,3.66,97.49,584.94
+2025-12-20,Saturday,12,1,Lunch,Quick Service,Chinese,15.0,1.6,Promotion,100,77,77,0,0.0,68.1,0.0
+2025-12-05,Friday,12,0,Dinner,Family Restaurant,Snacks,20.8,0.1,Promotion,125,53,53,0,0.0,46.56,0.0
+2025-02-13,Thursday,2,0,Dinner,Quick Service,North Indian,36.6,0.1,None,200,48,48,0,0.0,127.36,0.0
+2025-10-09,Thursday,10,0,Breakfast,Casual Dining,South Indian,21.7,8.7,None,200,24,12,12,3.13,91.71,1100.52
+2025-11-05,Wednesday,11,0,Lunch,Casual Dining,Desserts,27.3,7.9,Local Event,200,48,48,0,0.0,119.26,0.0
+2025-09-12,Friday,9,0,Dinner,Cafe,Snacks,18.6,1.8,None,50,35,27,8,1.94,113.67,909.36
+2025-10-27,Monday,10,0,Breakfast,Cafe,South Indian,32.2,5.7,None,75,12,12,0,0.0,139.4,0.0
+2025-11-02,Sunday,11,1,Breakfast,Quick Service,North Indian,24.8,6.5,None,150,47,33,14,3.23,86.61,1212.54
+2025-06-12,Thursday,6,0,Breakfast,Casual Dining,North Indian,32.5,0.0,None,125,46,25,21,8.15,85.62,1798.02
+2025-01-15,Wednesday,1,0,Lunch,Cafe,Desserts,40.6,11.5,None,100,39,39,0,0.0,71.77,0.0
+2025-06-16,Monday,6,0,Breakfast,Casual Dining,Desserts,38.6,6.5,None,75,33,12,21,6.87,104.39,2192.19
+2025-03-15,Saturday,3,1,Dinner,Quick Service,Snacks,30.9,5.1,None,50,59,51,8,2.55,91.18,729.44
+2025-02-11,Tuesday,2,0,Dinner,Quick Service,Chinese,28.0,6.6,None,75,53,47,6,1.45,114.23,685.38
+2025-02-15,Saturday,2,1,Breakfast,Cafe,South Indian,29.4,4.4,Promotion,100,49,19,30,8.19,78.87,2366.1
+2025-09-12,Friday,9,0,Lunch,Casual Dining,North Indian,28.1,2.5,None,100,51,45,6,1.66,57.43,344.58
+2025-07-04,Friday,7,0,Breakfast,Cafe,South Indian,28.5,3.5,None,125,22,15,7,1.55,126.93,888.51
+2025-07-17,Thursday,7,0,Breakfast,Quick Service,Snacks,27.0,0.0,None,75,24,24,0,0.0,123.66,0.0
+2025-09-29,Monday,9,0,Dinner,Cafe,South Indian,32.9,18.4,None,75,45,33,12,2.93,78.35,940.2
+2025-07-20,Sunday,7,1,Lunch,Quick Service,Snacks,28.4,2.4,Promotion,200,62,62,0,0.0,110.58,0.0
+2025-08-18,Monday,8,0,Dinner,Cafe,Desserts,38.5,18.1,Promotion,100,43,43,0,0.0,91.78,0.0
+2025-02-01,Saturday,2,1,Lunch,Family Restaurant,North Indian,31.5,3.6,None,75,79,69,10,2.29,117.29,1172.9
+2025-11-07,Friday,11,0,Breakfast,Casual Dining,Snacks,34.5,0.7,None,125,23,22,1,0.3,82.06,82.06
+2025-06-13,Friday,6,0,Lunch,Quick Service,Desserts,32.8,11.2,None,125,70,63,7,3.15,95.89,671.23
+2025-02-26,Wednesday,2,0,Breakfast,Quick Service,Chinese,35.8,4.9,None,125,42,37,5,1.26,50.49,252.45
+2025-10-24,Friday,10,0,Dinner,Casual Dining,Chinese,21.4,23.8,None,75,33,33,0,0.0,61.62,0.0
+2025-09-26,Friday,9,0,Dinner,Quick Service,North Indian,21.3,0.6,None,150,65,31,34,11.13,119.27,4055.18
+2025-01-20,Monday,1,0,Lunch,Family Restaurant,Chinese,31.3,11.7,None,75,57,47,10,3.97,81.25,812.5
+2025-03-12,Wednesday,3,0,Lunch,Family Restaurant,Desserts,37.4,12.2,None,200,80,62,18,6.13,48.34,870.12
+2025-01-06,Monday,1,0,Dinner,Family Restaurant,Snacks,29.2,7.1,None,100,59,33,26,7.54,60.93,1584.18
+2025-04-09,Wednesday,4,0,Dinner,Family Restaurant,North Indian,26.6,12.3,None,100,57,57,0,0.0,84.1,0.0
+2025-02-06,Thursday,2,0,Breakfast,Cafe,Chinese,24.2,2.5,None,100,22,22,0,0.0,113.2,0.0
+2025-09-17,Wednesday,9,0,Breakfast,Casual Dining,Snacks,18.4,0.1,None,100,25,14,11,3.45,79.53,874.83
+2025-07-10,Thursday,7,0,Breakfast,Casual Dining,South Indian,20.2,0.9,None,125,29,13,16,3.64,115.79,1852.64
+2025-12-24,Wednesday,12,0,Lunch,Casual Dining,Snacks,27.5,3.3,None,100,49,49,0,0.0,126.52,0.0
+2025-10-01,Wednesday,10,0,Lunch,Family Restaurant,North Indian,30.6,7.5,None,50,62,49,13,5.13,77.41,1006.33
+2025-08-12,Tuesday,8,0,Breakfast,Casual Dining,North Indian,26.9,0.2,None,125,22,13,9,2.22,121.04,1089.36
+2025-07-05,Saturday,7,1,Lunch,Casual Dining,Chinese,17.7,1.6,Festival,75,75,71,4,1.2,57.05,228.2
+2025-01-20,Monday,1,0,Lunch,Cafe,Chinese,28.0,0.4,Promotion,50,50,50,0,0.0,84.45,0.0
+2025-01-26,Sunday,1,1,Breakfast,Casual Dining,Desserts,28.2,8.8,None,200,27,27,0,0.0,54.27,0.0
+2025-08-13,Wednesday,8,0,Dinner,Casual Dining,North Indian,37.5,18.0,None,75,45,45,0,0.0,49.99,0.0
+2025-01-02,Thursday,1,0,Lunch,Quick Service,North Indian,21.7,0.0,None,125,65,64,1,0.27,51.13,51.13
+2025-01-16,Thursday,1,0,Lunch,Quick Service,North Indian,27.0,6.0,None,75,63,56,7,2.07,54.95,384.65
+2025-03-21,Friday,3,0,Lunch,Quick Service,Desserts,41.0,9.9,None,100,80,68,12,2.63,124.39,1492.68
+2025-11-19,Wednesday,11,0,Lunch,Casual Dining,Desserts,27.8,2.1,None,100,39,39,0,0.0,96.65,0.0
+2025-06-17,Tuesday,6,0,Dinner,Family Restaurant,Chinese,33.8,0.0,None,50,65,41,24,9.63,135.0,3240.0
+2025-09-16,Tuesday,9,0,Lunch,Casual Dining,Snacks,26.1,11.1,None,200,53,42,11,4.17,96.11,1057.21
+2025-05-31,Saturday,5,1,Lunch,Cafe,Desserts,34.1,0.0,None,75,61,43,18,5.6,104.73,1885.14
+2025-03-05,Wednesday,3,0,Dinner,Casual Dining,Desserts,36.4,14.2,None,125,57,41,16,3.06,62.53,1000.48
+2025-05-16,Friday,5,0,Dinner,Casual Dining,Snacks,28.4,0.4,None,125,51,39,12,4.44,96.36,1156.32
+2025-02-03,Monday,2,0,Dinner,Quick Service,Chinese,35.4,0.0,None,100,58,47,11,3.63,81.6,897.6
+2025-10-09,Thursday,10,0,Lunch,Cafe,Desserts,18.1,1.2,None,125,38,38,0,0.0,133.49,0.0
+2025-03-08,Saturday,3,1,Breakfast,Cafe,North Indian,34.1,2.9,None,125,37,37,0,0.0,133.72,0.0
+2025-05-18,Sunday,5,1,Dinner,Casual Dining,North Indian,33.4,3.9,None,50,47,40,7,1.84,63.86,447.02
+2025-12-24,Wednesday,12,0,Lunch,Cafe,Snacks,23.9,6.5,None,150,50,28,22,2.61,103.91,2286.02
+2025-08-05,Tuesday,8,0,Dinner,Casual Dining,South Indian,26.9,4.3,None,50,47,35,12,2.96,105.63,1267.56
+2025-06-17,Tuesday,6,0,Dinner,Casual Dining,Chinese,27.9,16.8,Festival,100,61,61,0,0.0,98.44,0.0
+2025-07-18,Friday,7,0,Lunch,Cafe,Desserts,23.6,2.7,None,100,44,38,6,1.93,56.81,340.86
+2025-10-14,Tuesday,10,0,Lunch,Cafe,South Indian,23.2,4.6,None,100,42,32,10,2.35,107.13,1071.3
+2025-04-03,Thursday,4,0,Lunch,Quick Service,Desserts,27.5,4.2,None,50,74,65,9,1.99,120.91,1088.19
+2025-08-21,Thursday,8,0,Lunch,Casual Dining,Chinese,28.6,0.0,Festival,150,96,75,21,6.2,77.8,1633.8
+2025-11-15,Saturday,11,1,Dinner,Casual Dining,Desserts,19.8,0.0,Local Event,100,69,55,14,3.26,93.88,1314.32
+2025-07-28,Monday,7,0,Dinner,Family Restaurant,Snacks,32.6,3.3,Festival,50,74,65,9,3.21,56.05,504.45
+2025-06-12,Thursday,6,0,Lunch,Casual Dining,South Indian,25.1,5.3,None,50,62,54,8,2.33,133.42,1067.36
+2025-02-22,Saturday,2,1,Dinner,Family Restaurant,Snacks,28.2,0.0,None,125,75,62,13,3.59,55.41,720.33
+2025-04-01,Tuesday,4,0,Lunch,Cafe,South Indian,29.9,17.4,None,125,41,39,2,0.53,64.8,129.6
+2025-12-12,Friday,12,0,Dinner,Quick Service,North Indian,33.6,5.8,None,125,44,43,1,0.34,73.36,73.36
+2025-07-17,Thursday,7,0,Lunch,Casual Dining,Desserts,30.7,3.0,None,150,57,57,0,0.0,123.45,0.0
+2025-04-20,Sunday,4,1,Dinner,Family Restaurant,Desserts,31.9,5.5,None,150,77,67,10,3.34,111.56,1115.6
+2025-06-02,Monday,6,0,Dinner,Casual Dining,South Indian,33.5,1.0,None,200,41,41,0,0.0,45.67,0.0
+2025-07-30,Wednesday,7,0,Lunch,Cafe,North Indian,18.5,3.9,Promotion,200,49,49,0,0.0,62.44,0.0
+2025-07-16,Wednesday,7,0,Lunch,Family Restaurant,South Indian,28.8,4.8,None,200,72,65,7,1.73,116.26,813.82
+2025-09-13,Saturday,9,1,Dinner,Cafe,North Indian,35.5,11.3,None,150,45,34,11,2.96,83.36,916.96
+2025-04-04,Friday,4,0,Lunch,Quick Service,Desserts,33.7,2.3,None,100,76,69,7,2.05,47.49,332.43
+2025-08-25,Monday,8,0,Dinner,Casual Dining,South Indian,27.3,0.0,Festival,125,53,53,0,0.0,136.57,0.0
+2025-06-11,Wednesday,6,0,Dinner,Casual Dining,Snacks,33.7,0.0,Promotion,125,79,77,2,0.45,59.37,118.74
+2025-12-10,Wednesday,12,0,Dinner,Casual Dining,Desserts,31.5,2.0,None,75,38,38,0,0.0,93.49,0.0
+2025-02-27,Thursday,2,0,Lunch,Family Restaurant,Desserts,21.0,0.0,Promotion,150,68,68,0,0.0,68.59,0.0
+2025-02-24,Monday,2,0,Lunch,Quick Service,North Indian,22.6,0.0,Festival,125,83,80,3,0.9,115.06,345.18
+2025-06-18,Wednesday,6,0,Dinner,Cafe,Snacks,32.1,0.0,Festival,125,47,47,0,0.0,118.79,0.0
+2025-07-05,Saturday,7,1,Lunch,Family Restaurant,Chinese,25.4,1.7,Festival,200,101,93,8,2.39,82.74,661.92
+2025-09-10,Wednesday,9,0,Breakfast,Family Restaurant,South Indian,32.1,5.8,None,150,30,27,3,0.91,107.55,322.65
+2025-05-28,Wednesday,5,0,Breakfast,Cafe,North Indian,30.9,1.6,Local Event,200,28,27,1,0.38,131.36,131.36
+2025-11-30,Sunday,11,1,Dinner,Family Restaurant,Snacks,15.9,6.2,None,200,56,56,0,0.0,122.41,0.0
+2025-06-23,Monday,6,0,Lunch,Casual Dining,Snacks,24.7,3.0,None,150,61,54,7,2.93,84.42,590.94
+2025-02-17,Monday,2,0,Lunch,Cafe,Chinese,17.3,0.0,None,75,44,37,7,2.17,86.94,608.58
+2025-02-13,Thursday,2,0,Lunch,Cafe,Snacks,29.8,4.9,Local Event,75,61,45,16,5.06,129.25,2068.0
+2025-12-22,Monday,12,0,Dinner,Quick Service,Snacks,26.1,4.0,Promotion,75,61,45,16,5.17,48.27,772.32
+2025-02-18,Tuesday,2,0,Lunch,Quick Service,North Indian,28.9,6.4,None,150,57,57,0,0.0,47.17,0.0
+2025-12-12,Friday,12,0,Dinner,Family Restaurant,North Indian,32.4,7.8,Promotion,200,56,56,0,0.0,64.55,0.0
+2025-04-12,Saturday,4,1,Dinner,Quick Service,Desserts,39.0,11.6,None,200,65,65,0,0.0,123.62,0.0
+2025-02-04,Tuesday,2,0,Dinner,Casual Dining,Desserts,30.1,6.0,None,150,42,42,0,0.0,59.56,0.0
+2025-04-22,Tuesday,4,0,Dinner,Cafe,South Indian,22.3,3.8,None,150,32,32,0,0.0,72.1,0.0
+2025-08-13,Wednesday,8,0,Lunch,Cafe,Snacks,30.1,6.4,Local Event,200,55,44,11,2.54,104.76,1152.36
+2025-06-06,Friday,6,0,Dinner,Cafe,South Indian,33.8,1.2,None,150,30,30,0,0.0,62.5,0.0
+2025-10-14,Tuesday,10,0,Breakfast,Family Restaurant,Desserts,26.5,1.0,None,50,40,16,24,4.5,73.8,1771.2
+2025-08-12,Tuesday,8,0,Dinner,Family Restaurant,Chinese,31.9,13.0,None,125,57,57,0,0.0,89.36,0.0
+2025-05-27,Tuesday,5,0,Lunch,Family Restaurant,Snacks,26.6,0.9,None,100,70,66,4,1.12,66.67,266.68
+2025-08-20,Wednesday,8,0,Dinner,Cafe,Snacks,37.0,0.1,None,125,33,33,0,0.0,139.28,0.0
+2025-12-21,Sunday,12,1,Dinner,Family Restaurant,Snacks,22.2,6.0,Festival,125,90,90,0,0.0,60.53,0.0
+2025-05-31,Saturday,5,1,Breakfast,Cafe,North Indian,36.2,1.3,None,75,33,23,10,3.6,125.74,1257.4
+2025-02-26,Wednesday,2,0,Dinner,Cafe,Desserts,22.6,7.7,Local Event,75,41,41,0,0.0,89.66,0.0
+2025-05-30,Friday,5,0,Breakfast,Family Restaurant,Chinese,27.8,10.8,None,50,36,29,7,2.56,57.27,400.89
+2025-11-03,Monday,11,0,Lunch,Family Restaurant,Chinese,33.1,0.4,Promotion,75,67,64,3,1.2,56.26,168.78
+2025-03-21,Friday,3,0,Lunch,Quick Service,North Indian,31.2,6.8,None,150,54,54,0,0.0,92.53,0.0
+2025-12-13,Saturday,12,1,Lunch,Family Restaurant,South Indian,31.2,0.8,None,125,68,68,0,0.0,78.58,0.0
+2025-08-03,Sunday,8,1,Lunch,Cafe,Chinese,28.2,2.1,None,200,54,41,13,3.43,67.29,874.77
+2025-08-08,Friday,8,0,Dinner,Family Restaurant,North Indian,26.5,4.6,None,200,56,48,8,2.93,136.1,1088.8
+2025-04-26,Saturday,4,1,Lunch,Cafe,Snacks,39.8,1.0,None,200,63,49,14,4.48,89.02,1246.28
+2025-12-02,Tuesday,12,0,Lunch,Family Restaurant,North Indian,25.8,4.1,Local Event,75,68,68,0,0.0,133.24,0.0
+2025-01-14,Tuesday,1,0,Dinner,Casual Dining,Desserts,20.1,2.4,None,100,52,28,24,7.26,60.58,1453.92
+2025-04-20,Sunday,4,1,Dinner,Quick Service,Snacks,29.0,7.9,None,50,64,63,1,0.28,62.43,62.43
+2025-06-02,Monday,6,0,Breakfast,Quick Service,Chinese,33.8,7.9,None,50,26,25,1,0.43,101.62,101.62
+2025-06-24,Tuesday,6,0,Dinner,Casual Dining,Snacks,33.0,1.0,Promotion,75,64,51,13,3.16,70.64,918.32
+2025-06-23,Monday,6,0,Breakfast,Quick Service,Snacks,23.2,4.7,None,75,31,23,8,2.94,62.57,500.56
+2025-02-23,Sunday,2,1,Lunch,Casual Dining,Snacks,27.4,9.1,None,50,61,61,0,0.0,54.0,0.0
+2025-03-24,Monday,3,0,Lunch,Quick Service,Chinese,29.6,0.0,None,200,66,65,1,0.21,52.25,52.25
+2025-02-04,Tuesday,2,0,Dinner,Quick Service,Desserts,29.2,2.4,None,125,55,51,4,1.05,116.55,466.2
+2025-07-28,Monday,7,0,Breakfast,Cafe,North Indian,22.1,4.5,None,125,22,22,0,0.0,71.81,0.0
+2025-05-09,Friday,5,0,Breakfast,Family Restaurant,Chinese,29.3,0.0,None,125,34,34,0,0.0,137.95,0.0
+2025-07-26,Saturday,7,1,Dinner,Quick Service,North Indian,25.4,1.4,None,200,53,53,0,0.0,62.4,0.0
+2025-08-04,Monday,8,0,Breakfast,Cafe,Chinese,30.9,15.4,None,50,22,11,11,3.45,78.67,865.37
+2025-09-14,Sunday,9,1,Lunch,Cafe,Desserts,29.6,0.9,None,100,45,45,0,0.0,80.62,0.0
+2025-07-19,Saturday,7,1,Dinner,Cafe,Snacks,28.3,1.2,None,75,39,39,0,0.0,92.51,0.0
+2025-08-25,Monday,8,0,Dinner,Quick Service,North Indian,25.0,5.9,Promotion,125,60,49,11,3.57,127.71,1404.81
+2025-08-03,Sunday,8,1,Breakfast,Cafe,Desserts,27.7,0.0,None,125,34,10,24,8.52,124.3,2983.2
+2025-08-27,Wednesday,8,0,Lunch,Quick Service,Snacks,22.9,2.5,None,150,61,38,23,6.49,45.95,1056.85
+2025-08-14,Thursday,8,0,Dinner,Quick Service,Chinese,21.3,0.1,None,125,48,46,2,0.55,83.88,167.76
+2025-04-26,Saturday,4,1,Lunch,Casual Dining,South Indian,28.3,4.1,None,75,63,63,0,0.0,123.65,0.0
+2025-03-31,Monday,3,0,Breakfast,Family Restaurant,Chinese,29.3,3.4,Festival,125,51,32,19,3.53,45.02,855.38
+2025-10-15,Wednesday,10,0,Breakfast,Quick Service,Desserts,19.2,4.6,None,200,9,9,0,0.0,95.7,0.0
+2025-05-06,Tuesday,5,0,Lunch,Family Restaurant,Chinese,33.3,1.5,None,125,77,67,10,2.35,69.65,696.5
+2025-07-20,Sunday,7,1,Dinner,Family Restaurant,South Indian,32.6,1.7,None,125,56,56,0,0.0,84.21,0.0
+2025-03-13,Thursday,3,0,Lunch,Family Restaurant,South Indian,24.5,1.1,None,75,60,60,0,0.0,84.93,0.0
+2025-06-07,Saturday,6,1,Breakfast,Casual Dining,Desserts,31.1,2.4,Promotion,50,41,31,10,2.51,82.22,822.2
+2025-07-13,Sunday,7,1,Lunch,Quick Service,Chinese,27.9,13.2,None,75,85,67,18,5.8,129.74,2335.32
+2025-08-17,Sunday,8,1,Breakfast,Quick Service,Snacks,28.7,8.2,None,50,49,36,13,1.82,95.96,1247.48
+2025-07-12,Saturday,7,1,Lunch,Family Restaurant,North Indian,28.9,2.4,Local Event,100,93,77,16,4.77,130.86,2093.76
+2025-05-12,Monday,5,0,Dinner,Quick Service,South Indian,25.2,1.4,Local Event,200,66,46,20,6.27,114.04,2280.8
+2025-12-18,Thursday,12,0,Dinner,Cafe,Chinese,20.7,7.4,None,100,25,25,0,0.0,78.36,0.0
+2025-07-07,Monday,7,0,Breakfast,Casual Dining,Snacks,29.1,3.8,None,125,30,15,15,6.39,91.89,1378.35
+2025-10-23,Thursday,10,0,Lunch,Family Restaurant,North Indian,30.1,0.0,None,200,61,61,0,0.0,82.04,0.0
+2025-09-26,Friday,9,0,Breakfast,Cafe,Snacks,15.0,1.9,Local Event,150,17,13,4,1.21,123.71,494.84
+2025-07-23,Wednesday,7,0,Breakfast,Cafe,Chinese,30.7,12.0,None,125,24,24,0,0.0,62.82,0.0
+2025-11-20,Thursday,11,0,Lunch,Family Restaurant,North Indian,31.5,5.6,None,150,62,42,20,6.29,133.96,2679.2
+2025-02-16,Sunday,2,1,Lunch,Family Restaurant,North Indian,30.2,1.4,Festival,75,111,100,11,4.53,100.14,1101.54
+2025-12-03,Wednesday,12,0,Dinner,Casual Dining,North Indian,29.8,0.0,None,100,35,35,0,0.0,103.12,0.0
+2025-11-07,Friday,11,0,Dinner,Cafe,North Indian,22.0,4.1,None,100,38,24,14,5.21,94.1,1317.4
+2025-07-03,Thursday,7,0,Lunch,Cafe,Snacks,28.4,3.0,None,150,40,39,1,0.4,97.68,97.68
+2025-09-25,Thursday,9,0,Dinner,Family Restaurant,North Indian,17.4,2.3,Festival,100,68,61,7,3.08,108.43,759.01
+2025-07-09,Wednesday,7,0,Lunch,Casual Dining,Snacks,17.3,7.5,None,200,57,43,14,4.72,107.23,1501.22
+2025-04-09,Wednesday,4,0,Lunch,Casual Dining,North Indian,37.7,5.7,None,75,53,53,0,0.0,65.34,0.0
+2025-10-19,Sunday,10,1,Dinner,Family Restaurant,North Indian,20.1,0.0,None,75,64,47,17,6.38,100.33,1705.61
+2025-03-31,Monday,3,0,Breakfast,Family Restaurant,Desserts,30.2,3.1,Local Event,150,40,34,6,1.98,78.69,472.14
+2025-04-25,Friday,4,0,Lunch,Cafe,Desserts,26.1,0.0,Local Event,150,50,50,0,0.0,105.52,0.0
+2025-07-09,Wednesday,7,0,Dinner,Quick Service,Chinese,22.0,1.1,None,150,50,45,5,0.96,97.04,485.2
+2025-11-02,Sunday,11,1,Lunch,Casual Dining,North Indian,24.7,0.0,None,75,61,48,13,4.43,62.07,806.91
+2025-05-21,Wednesday,5,0,Dinner,Casual Dining,Snacks,28.8,0.0,Promotion,50,57,57,0,0.0,114.8,0.0
+2025-06-30,Monday,6,0,Lunch,Cafe,South Indian,32.9,4.7,Local Event,75,54,54,0,0.0,88.42,0.0
+2025-01-16,Thursday,1,0,Dinner,Cafe,Chinese,31.3,4.2,None,100,39,26,13,4.34,97.39,1266.07
+2025-02-12,Wednesday,2,0,Breakfast,Family Restaurant,Chinese,32.6,2.7,None,100,31,19,12,2.9,108.9,1306.8
+2025-01-21,Tuesday,1,0,Breakfast,Quick Service,Snacks,30.2,0.9,Promotion,200,48,23,25,7.99,107.02,2675.5
+2025-01-27,Monday,1,0,Lunch,Casual Dining,South Indian,36.9,0.0,Promotion,200,73,68,5,1.65,116.15,580.75
+2025-11-14,Friday,11,0,Dinner,Cafe,South Indian,20.2,1.1,None,150,35,34,1,0.33,64.64,64.64
+2025-11-04,Tuesday,11,0,Breakfast,Family Restaurant,North Indian,25.3,4.2,None,50,31,30,1,0.26,55.49,55.49
+2025-10-27,Monday,10,0,Dinner,Quick Service,South Indian,30.7,4.1,None,50,44,42,2,0.77,108.57,217.14
+2025-01-21,Tuesday,1,0,Lunch,Family Restaurant,Chinese,35.3,11.8,Festival,100,86,76,10,3.14,67.42,674.2
+2025-01-29,Wednesday,1,0,Lunch,Quick Service,Desserts,21.9,10.3,None,125,58,58,0,0.0,55.89,0.0
+2025-04-13,Sunday,4,1,Lunch,Quick Service,North Indian,31.4,2.9,None,150,66,64,2,0.47,57.47,114.94
+2025-07-26,Saturday,7,1,Breakfast,Family Restaurant,Chinese,35.8,1.1,None,75,47,39,8,2.46,74.72,597.76
+2025-05-02,Friday,5,0,Dinner,Family Restaurant,North Indian,35.0,0.2,Promotion,50,72,57,15,5.95,139.22,2088.3
+2025-06-27,Friday,6,0,Lunch,Family Restaurant,South Indian,32.0,0.0,Promotion,75,82,74,8,3.1,59.94,479.52
+2025-03-05,Wednesday,3,0,Dinner,Cafe,Snacks,31.4,0.0,Promotion,150,47,47,0,0.0,73.36,0.0
+2025-09-24,Wednesday,9,0,Lunch,Cafe,North Indian,23.6,4.2,None,200,64,32,32,9.02,132.47,4239.04
+2025-04-25,Friday,4,0,Lunch,Cafe,Chinese,34.4,6.2,Local Event,200,51,51,0,0.0,136.51,0.0
+2025-01-25,Saturday,1,1,Lunch,Cafe,Snacks,27.7,1.7,Festival,125,54,44,10,2.74,66.74,667.4
+2025-09-29,Monday,9,0,Dinner,Cafe,Desserts,25.3,23.2,None,50,25,25,0,0.0,128.64,0.0
+2025-11-26,Wednesday,11,0,Dinner,Casual Dining,South Indian,25.9,0.0,None,200,52,40,12,3.72,58.2,698.4
+2025-01-06,Monday,1,0,Lunch,Family Restaurant,Chinese,25.6,0.0,Promotion,50,91,89,2,0.73,117.35,234.7
+2025-06-09,Monday,6,0,Lunch,Casual Dining,Desserts,33.7,22.9,None,75,52,42,10,2.65,46.24,462.4
+2025-10-29,Wednesday,10,0,Lunch,Cafe,Chinese,39.6,0.0,None,200,55,45,10,3.14,83.63,836.3
+2025-09-15,Monday,9,0,Lunch,Cafe,South Indian,16.7,1.7,None,125,48,46,2,0.61,68.5,137.0
+2025-11-09,Sunday,11,1,Lunch,Cafe,North Indian,27.2,0.4,None,75,49,39,10,3.94,111.88,1118.8
+2025-06-01,Sunday,6,1,Lunch,Cafe,Snacks,27.2,4.6,None,125,51,44,7,1.94,46.53,325.71
+2025-05-16,Friday,5,0,Dinner,Quick Service,Snacks,35.4,1.4,Local Event,50,67,61,6,1.68,89.17,535.02
+2025-09-16,Tuesday,9,0,Dinner,Casual Dining,North Indian,25.8,6.2,None,75,52,28,24,6.26,111.19,2668.56
+2025-02-26,Wednesday,2,0,Dinner,Casual Dining,South Indian,34.8,7.7,Festival,200,70,57,13,3.12,49.44,642.72
+2025-03-29,Saturday,3,1,Dinner,Casual Dining,North Indian,38.3,0.0,None,75,56,56,0,0.0,130.25,0.0
+2025-08-08,Friday,8,0,Lunch,Family Restaurant,North Indian,28.0,0.1,None,200,65,65,0,0.0,79.31,0.0
+2025-09-01,Monday,9,0,Dinner,Family Restaurant,Snacks,31.2,6.7,Local Event,125,77,56,21,6.8,60.7,1274.7
+2025-02-13,Thursday,2,0,Breakfast,Cafe,Desserts,19.3,9.2,None,125,25,18,7,2.86,66.42,464.94
+2025-07-05,Saturday,7,1,Lunch,Casual Dining,South Indian,37.0,3.6,None,150,72,64,8,3.31,77.2,617.6
+2025-05-14,Wednesday,5,0,Lunch,Quick Service,Snacks,34.3,5.0,Local Event,125,79,75,4,0.82,63.85,255.4
+2025-07-03,Thursday,7,0,Breakfast,Family Restaurant,Snacks,34.4,12.4,None,50,35,23,12,4.38,93.5,1122.0
+2025-12-16,Tuesday,12,0,Dinner,Family Restaurant,Snacks,20.9,1.5,None,200,57,57,0,0.0,105.13,0.0
+2025-01-28,Tuesday,1,0,Dinner,Casual Dining,Desserts,24.8,3.6,None,100,55,53,2,0.58,86.18,172.36
+2025-12-30,Tuesday,12,0,Lunch,Family Restaurant,South Indian,27.7,10.3,Promotion,125,83,77,6,2.06,85.57,513.42
+2025-06-14,Saturday,6,1,Lunch,Family Restaurant,Snacks,30.9,10.9,None,125,80,65,15,2.99,119.26,1788.9
+2025-10-09,Thursday,10,0,Dinner,Cafe,South Indian,26.4,2.4,None,125,33,24,9,3.8,73.6,662.4
+2025-06-04,Wednesday,6,0,Lunch,Quick Service,Desserts,36.4,0.2,Promotion,100,81,70,11,3.92,104.16,1145.76
+2025-04-24,Thursday,4,0,Dinner,Quick Service,Chinese,24.2,2.4,None,200,56,51,5,1.3,129.83,649.15
+2025-10-09,Thursday,10,0,Dinner,Family Restaurant,South Indian,29.9,2.8,None,75,53,35,18,5.02,66.04,1188.72
+2025-09-08,Monday,9,0,Lunch,Cafe,Snacks,25.6,0.1,None,125,63,42,21,4.22,103.89,2181.69
+2025-02-22,Saturday,2,1,Lunch,Quick Service,Snacks,30.0,0.4,None,125,62,62,0,0.0,135.06,0.0
+2025-09-15,Monday,9,0,Lunch,Quick Service,Chinese,18.2,10.9,None,125,64,56,8,2.29,95.33,762.64
+2025-10-02,Thursday,10,0,Breakfast,Family Restaurant,North Indian,27.5,5.3,None,50,23,18,5,1.14,137.81,689.05
+2025-05-22,Thursday,5,0,Lunch,Casual Dining,South Indian,20.4,1.7,None,100,59,46,13,4.87,74.45,967.85
+2025-12-04,Thursday,12,0,Breakfast,Casual Dining,Desserts,30.2,0.0,None,50,46,24,22,9.01,98.61,2169.42
+2025-08-22,Friday,8,0,Breakfast,Cafe,South Indian,19.5,0.5,None,125,15,15,0,0.0,74.55,0.0
+2025-05-02,Friday,5,0,Lunch,Casual Dining,Desserts,32.7,0.0,None,150,55,55,0,0.0,45.35,0.0
+2025-01-04,Saturday,1,1,Breakfast,Family Restaurant,Chinese,28.4,3.8,None,125,42,41,1,0.35,139.74,139.74
+2025-09-04,Thursday,9,0,Dinner,Cafe,Snacks,31.4,0.3,None,150,33,33,0,0.0,67.81,0.0
+2025-03-18,Tuesday,3,0,Breakfast,Casual Dining,Snacks,31.6,4.2,Local Event,100,41,20,21,5.13,137.44,2886.24
+2025-10-04,Saturday,10,1,Dinner,Casual Dining,Desserts,21.5,6.7,None,75,49,49,0,0.0,107.04,0.0
+2025-07-11,Friday,7,0,Lunch,Family Restaurant,South Indian,26.5,4.2,None,100,72,58,14,4.19,130.87,1832.18
+2025-06-20,Friday,6,0,Breakfast,Cafe,Desserts,37.4,1.3,None,75,17,17,0,0.0,136.88,0.0
+2025-03-01,Saturday,3,1,Breakfast,Family Restaurant,South Indian,35.1,0.0,Festival,150,49,49,0,0.0,98.94,0.0
+2025-09-17,Wednesday,9,0,Dinner,Casual Dining,Desserts,23.6,0.0,None,150,45,45,0,0.0,139.97,0.0
+2025-03-02,Sunday,3,1,Lunch,Quick Service,North Indian,31.3,10.0,Local Event,100,72,72,0,0.0,117.9,0.0
+2025-06-02,Monday,6,0,Lunch,Family Restaurant,Desserts,23.2,4.0,None,150,79,66,13,4.77,94.76,1231.88
+2025-11-02,Sunday,11,1,Breakfast,Quick Service,South Indian,27.5,1.5,None,50,26,26,0,0.0,107.22,0.0
+2025-12-02,Tuesday,12,0,Dinner,Family Restaurant,Chinese,18.2,5.8,Local Event,50,55,54,1,0.5,63.46,63.46
+2025-12-28,Sunday,12,1,Breakfast,Cafe,Chinese,30.8,8.5,None,75,31,9,22,6.44,46.05,1013.1
+2025-12-16,Tuesday,12,0,Lunch,Quick Service,Desserts,27.6,0.4,None,100,57,57,0,0.0,69.39,0.0
+2025-07-22,Tuesday,7,0,Dinner,Family Restaurant,South Indian,40.9,3.8,Promotion,75,62,62,0,0.0,86.32,0.0
+2025-03-15,Saturday,3,1,Lunch,Quick Service,South Indian,27.0,3.9,None,125,87,71,16,5.34,66.66,1066.56
+2025-11-03,Monday,11,0,Lunch,Casual Dining,Snacks,25.0,12.0,None,150,46,46,0,0.0,93.83,0.0
+2025-10-20,Monday,10,0,Dinner,Casual Dining,South Indian,34.0,1.4,None,100,46,32,14,3.51,107.5,1505.0
+2025-12-28,Sunday,12,1,Lunch,Cafe,Snacks,33.0,0.0,None,100,50,39,11,4.7,107.3,1180.3
+2025-08-26,Tuesday,8,0,Breakfast,Cafe,South Indian,23.5,4.4,Local Event,50,29,29,0,0.0,129.91,0.0
+2025-02-21,Friday,2,0,Lunch,Cafe,Desserts,32.1,6.3,None,75,51,44,7,2.45,136.8,957.6
+2025-07-03,Thursday,7,0,Breakfast,Casual Dining,Chinese,29.0,3.4,Promotion,150,28,23,5,1.43,129.62,648.1
+2025-06-13,Friday,6,0,Dinner,Cafe,Desserts,32.4,12.7,None,150,39,34,5,1.53,103.92,519.6
+2025-11-04,Tuesday,11,0,Lunch,Quick Service,South Indian,22.0,1.4,Promotion,50,69,69,0,0.0,64.55,0.0
+2025-05-24,Saturday,5,1,Lunch,Cafe,North Indian,32.0,3.6,Festival,50,77,73,4,1.66,134.63,538.52
+2025-04-30,Wednesday,4,0,Breakfast,Quick Service,Chinese,25.0,0.0,Promotion,150,32,22,10,3.01,61.61,616.1
+2025-01-30,Thursday,1,0,Dinner,Quick Service,South Indian,29.7,0.0,None,75,69,62,7,1.64,59.39,415.73
+2025-11-01,Saturday,11,1,Dinner,Cafe,South Indian,27.8,0.4,None,125,39,39,0,0.0,75.17,0.0
+2025-10-03,Friday,10,0,Breakfast,Quick Service,North Indian,23.9,2.0,None,150,27,20,7,1.99,99.49,696.43
+2025-01-16,Thursday,1,0,Dinner,Family Restaurant,Snacks,20.9,0.0,None,150,50,42,8,2.75,109.74,877.92
+2025-06-08,Sunday,6,1,Lunch,Quick Service,Snacks,35.9,5.7,None,125,64,64,0,0.0,46.26,0.0
+2025-06-25,Wednesday,6,0,Dinner,Quick Service,South Indian,32.8,0.2,Local Event,100,58,58,0,0.0,118.91,0.0
+2025-06-21,Saturday,6,1,Lunch,Family Restaurant,South Indian,27.4,20.1,None,150,69,58,11,1.83,61.63,677.93
+2025-12-02,Tuesday,12,0,Breakfast,Quick Service,Snacks,25.6,0.3,Festival,150,34,29,5,1.84,73.17,365.85
+2025-02-24,Monday,2,0,Dinner,Family Restaurant,North Indian,23.5,3.1,None,200,53,53,0,0.0,75.6,0.0
+2025-04-22,Tuesday,4,0,Dinner,Casual Dining,Snacks,27.9,2.5,Promotion,125,67,57,10,2.97,76.58,765.8
+2025-03-08,Saturday,3,1,Lunch,Family Restaurant,North Indian,29.8,0.0,None,200,75,69,6,1.87,117.23,703.38
+2025-03-31,Monday,3,0,Breakfast,Family Restaurant,North Indian,38.6,2.0,None,150,32,24,8,1.66,48.89,391.12
+2025-11-28,Friday,11,0,Dinner,Quick Service,North Indian,22.3,1.9,Festival,50,63,63,0,0.0,63.67,0.0
+2025-12-10,Wednesday,12,0,Breakfast,Casual Dining,North Indian,30.2,7.7,Festival,75,41,35,6,1.35,47.12,282.72
+2025-01-17,Friday,1,0,Lunch,Cafe,Snacks,26.3,4.6,Local Event,150,53,53,0,0.0,118.94,0.0
+2025-08-19,Tuesday,8,0,Lunch,Family Restaurant,Chinese,28.2,5.6,Promotion,50,78,75,3,0.99,138.45,415.35
+2025-03-26,Wednesday,3,0,Breakfast,Quick Service,Snacks,31.8,7.5,None,150,24,24,0,0.0,107.66,0.0
+2025-03-12,Wednesday,3,0,Breakfast,Quick Service,South Indian,36.8,5.7,Festival,100,37,32,5,1.31,101.06,505.3
+2025-04-17,Thursday,4,0,Breakfast,Casual Dining,Chinese,30.3,3.8,None,75,23,23,0,0.0,131.27,0.0
+2025-03-12,Wednesday,3,0,Dinner,Quick Service,Chinese,24.6,0.4,None,125,66,53,13,5.02,69.22,899.86
+2025-06-28,Saturday,6,1,Lunch,Casual Dining,Desserts,24.1,3.5,None,200,69,69,0,0.0,51.31,0.0
+2025-12-30,Tuesday,12,0,Dinner,Quick Service,Chinese,24.3,0.0,None,200,46,46,0,0.0,93.45,0.0
+2025-08-03,Sunday,8,1,Dinner,Family Restaurant,South Indian,20.8,2.3,None,100,61,54,7,1.53,69.73,488.11
+2025-09-21,Sunday,9,1,Dinner,Family Restaurant,Snacks,27.6,1.8,Local Event,50,68,68,0,0.0,87.85,0.0
+2025-06-30,Monday,6,0,Lunch,Quick Service,South Indian,28.7,2.0,None,200,58,45,13,3.49,88.35,1148.55
+2025-01-06,Monday,1,0,Lunch,Cafe,Desserts,40.9,0.0,Promotion,200,60,33,27,10.91,75.29,2032.83
+2025-01-31,Friday,1,0,Lunch,Cafe,North Indian,20.3,0.0,None,125,44,44,0,0.0,91.2,0.0
+2025-04-09,Wednesday,4,0,Lunch,Cafe,Snacks,34.0,1.2,None,125,64,40,24,6.17,81.11,1946.64
+2025-03-30,Sunday,3,1,Dinner,Family Restaurant,Snacks,26.8,9.3,None,125,78,62,16,5.38,55.74,891.84
+2025-11-03,Monday,11,0,Dinner,Cafe,Chinese,23.1,3.0,None,50,47,38,9,2.45,127.34,1146.06
+2025-11-04,Tuesday,11,0,Lunch,Cafe,Chinese,26.2,8.7,None,50,48,48,0,0.0,111.62,0.0
+2025-11-08,Saturday,11,1,Lunch,Quick Service,South Indian,15.0,0.0,None,50,63,63,0,0.0,48.92,0.0
+2025-08-21,Thursday,8,0,Dinner,Quick Service,South Indian,28.2,1.0,None,200,57,57,0,0.0,56.0,0.0
+2025-07-23,Wednesday,7,0,Breakfast,Cafe,Snacks,38.5,21.0,None,50,21,21,0,0.0,54.17,0.0
+2025-08-25,Monday,8,0,Dinner,Family Restaurant,Desserts,24.7,0.1,Local Event,125,76,61,15,5.02,50.87,763.05
+2025-05-29,Thursday,5,0,Lunch,Casual Dining,Desserts,33.8,5.5,None,100,63,56,7,1.41,50.61,354.27
+2025-09-02,Tuesday,9,0,Dinner,Cafe,North Indian,30.7,5.5,Festival,50,52,33,19,6.6,59.93,1138.67
+2025-10-17,Friday,10,0,Dinner,Quick Service,North Indian,24.2,4.8,Local Event,200,57,57,0,0.0,125.55,0.0
+2025-10-06,Monday,10,0,Lunch,Casual Dining,North Indian,22.1,5.6,None,50,65,27,38,14.54,123.68,4699.84
+2025-08-13,Wednesday,8,0,Breakfast,Family Restaurant,Snacks,15.6,0.0,None,200,20,19,1,0.36,119.4,119.4
+2025-01-22,Wednesday,1,0,Dinner,Cafe,Snacks,32.2,1.3,None,150,54,35,19,5.81,103.4,1964.6
+2025-09-22,Monday,9,0,Lunch,Quick Service,Snacks,25.0,12.3,None,150,57,46,11,4.31,113.73,1251.03
+2025-05-14,Wednesday,5,0,Lunch,Family Restaurant,Desserts,27.4,5.5,None,50,60,60,0,0.0,115.16,0.0
+2025-09-29,Monday,9,0,Lunch,Family Restaurant,North Indian,26.2,0.4,Promotion,200,72,72,0,0.0,129.48,0.0
+2025-07-16,Wednesday,7,0,Lunch,Casual Dining,Snacks,26.1,0.0,None,125,45,45,0,0.0,114.57,0.0
+2025-11-18,Tuesday,11,0,Dinner,Casual Dining,Chinese,22.9,9.4,None,100,50,34,16,5.64,114.96,1839.36
+2025-05-04,Sunday,5,1,Breakfast,Cafe,Desserts,35.5,0.2,None,150,26,23,3,0.88,121.39,364.17
+2025-12-06,Saturday,12,1,Lunch,Family Restaurant,North Indian,20.3,0.4,None,100,75,58,17,7.4,97.85,1663.45
+2025-11-05,Wednesday,11,0,Dinner,Casual Dining,South Indian,30.8,0.0,None,75,56,47,9,4.15,65.24,587.16
+2025-05-01,Thursday,5,0,Breakfast,Quick Service,North Indian,25.5,6.7,None,75,28,25,3,1.14,53.03,159.09
+2025-06-26,Thursday,6,0,Lunch,Quick Service,Snacks,27.7,8.5,Promotion,125,74,54,20,8.56,84.81,1696.2
+2025-07-13,Sunday,7,1,Dinner,Family Restaurant,Desserts,38.6,1.8,None,125,61,61,0,0.0,53.71,0.0
+2025-10-08,Wednesday,10,0,Dinner,Family Restaurant,Desserts,30.6,8.6,None,75,52,52,0,0.0,61.08,0.0
+2025-09-09,Tuesday,9,0,Lunch,Family Restaurant,South Indian,26.0,4.3,None,75,82,66,16,4.76,47.26,756.16
+2025-11-07,Friday,11,0,Dinner,Quick Service,Chinese,20.8,0.0,None,200,56,44,12,3.87,73.52,882.24
+2025-05-16,Friday,5,0,Lunch,Quick Service,South Indian,29.8,11.6,Promotion,125,75,68,7,2.14,137.15,960.05
+2025-07-04,Friday,7,0,Lunch,Casual Dining,North Indian,29.4,0.0,Promotion,200,65,65,0,0.0,81.0,0.0
+2025-06-07,Saturday,6,1,Dinner,Quick Service,Desserts,31.2,2.1,Promotion,75,77,71,6,2.4,67.88,407.28
+2025-11-28,Friday,11,0,Dinner,Casual Dining,Desserts,25.1,1.8,None,75,48,46,2,0.94,83.33,166.66
+2025-04-22,Tuesday,4,0,Lunch,Cafe,South Indian,32.8,1.2,None,75,46,39,7,2.87,73.63,515.41
+2025-08-03,Sunday,8,1,Lunch,Casual Dining,South Indian,25.9,0.0,Local Event,125,75,71,4,1.58,109.02,436.08
+2025-02-13,Thursday,2,0,Lunch,Quick Service,Snacks,23.8,17.7,None,150,55,44,11,3.69,105.27,1157.97
+2025-11-07,Friday,11,0,Breakfast,Casual Dining,Chinese,23.0,0.0,None,125,19,16,3,0.78,47.6,142.8
+2025-05-21,Wednesday,5,0,Dinner,Cafe,Chinese,37.0,12.2,None,75,45,27,18,5.85,93.58,1684.44
+2025-05-05,Monday,5,0,Dinner,Cafe,Desserts,25.6,0.0,None,200,34,31,3,1.4,48.44,145.32
+2025-08-01,Friday,8,0,Lunch,Casual Dining,Desserts,26.1,0.6,Festival,125,78,77,1,0.3,109.35,109.35
+2025-07-02,Wednesday,7,0,Lunch,Casual Dining,Desserts,24.9,11.2,None,100,55,45,10,2.88,133.9,1339.0
+2025-11-06,Thursday,11,0,Lunch,Cafe,Snacks,26.1,4.9,Promotion,50,39,39,0,0.0,131.21,0.0
+2025-07-13,Sunday,7,1,Breakfast,Quick Service,Desserts,27.1,0.0,None,125,40,40,0,0.0,64.54,0.0
+2025-07-08,Tuesday,7,0,Dinner,Family Restaurant,Snacks,36.4,0.0,None,125,49,49,0,0.0,115.55,0.0
+2025-02-08,Saturday,2,1,Lunch,Family Restaurant,Desserts,33.5,4.1,None,200,84,81,3,0.91,120.34,361.02
+2025-01-09,Thursday,1,0,Lunch,Quick Service,Chinese,22.4,0.0,None,75,60,60,0,0.0,127.11,0.0
+2025-05-26,Monday,5,0,Lunch,Family Restaurant,South Indian,35.8,5.2,None,50,85,67,18,5.85,69.66,1253.88
+2025-12-31,Wednesday,12,0,Dinner,Quick Service,Desserts,23.1,5.8,None,200,59,51,8,3.18,87.83,702.64
+2025-12-01,Monday,12,0,Breakfast,Casual Dining,Desserts,24.1,0.1,None,125,19,19,0,0.0,66.04,0.0
+2025-08-18,Monday,8,0,Lunch,Cafe,North Indian,28.6,0.8,Festival,50,45,45,0,0.0,47.31,0.0
+2025-08-19,Tuesday,8,0,Lunch,Casual Dining,Chinese,24.5,4.3,None,50,50,41,9,2.94,107.61,968.49
+2025-05-23,Friday,5,0,Breakfast,Quick Service,Chinese,36.9,0.0,None,100,27,21,6,2.9,85.99,515.94
+2025-03-06,Thursday,3,0,Lunch,Quick Service,Snacks,28.6,3.0,None,125,78,67,11,3.77,68.57,754.27
+2025-01-04,Saturday,1,1,Lunch,Cafe,Snacks,25.9,22.0,Local Event,75,57,57,0,0.0,125.47,0.0
+2025-05-04,Sunday,5,1,Breakfast,Quick Service,North Indian,29.2,4.5,None,100,48,32,16,5.76,92.09,1473.44
+2025-04-26,Saturday,4,1,Breakfast,Casual Dining,Desserts,30.2,1.3,None,150,37,16,21,6.22,139.49,2929.29
+2025-03-11,Tuesday,3,0,Dinner,Casual Dining,Desserts,38.0,19.1,None,200,50,40,10,1.94,120.37,1203.7
+2025-04-05,Saturday,4,1,Lunch,Family Restaurant,Desserts,36.1,7.2,None,100,81,80,1,0.3,127.58,127.58
+2025-01-10,Friday,1,0,Lunch,Family Restaurant,Chinese,37.5,0.0,None,100,77,63,14,4.23,118.47,1658.58
+2025-08-10,Sunday,8,1,Lunch,Family Restaurant,South Indian,38.3,0.0,None,100,80,73,7,1.46,55.06,385.42
+2025-12-05,Friday,12,0,Dinner,Cafe,Desserts,21.8,0.0,Promotion,50,38,36,2,0.63,51.18,102.36
+2025-09-10,Wednesday,9,0,Dinner,Cafe,South Indian,25.9,4.2,None,50,49,40,9,1.58,131.93,1187.37
+2025-06-13,Friday,6,0,Dinner,Casual Dining,South Indian,25.1,0.0,None,200,49,47,2,0.59,58.13,116.26
+2025-06-03,Tuesday,6,0,Lunch,Quick Service,North Indian,27.1,19.1,None,50,59,59,0,0.0,82.17,0.0
+2025-04-23,Wednesday,4,0,Lunch,Family Restaurant,South Indian,29.8,1.6,None,150,52,52,0,0.0,102.94,0.0
+2025-02-21,Friday,2,0,Lunch,Casual Dining,Snacks,25.7,7.6,None,75,62,56,6,1.75,65.13,390.78
+2025-08-07,Thursday,8,0,Lunch,Casual Dining,Chinese,21.7,1.3,None,150,56,52,4,1.26,66.4,265.6
+2025-07-26,Saturday,7,1,Lunch,Quick Service,North Indian,28.3,4.1,None,200,71,57,14,3.71,89.29,1250.06
+2025-01-03,Friday,1,0,Breakfast,Casual Dining,South Indian,22.9,2.1,None,150,25,25,0,0.0,79.29,0.0
+2025-06-01,Sunday,6,1,Lunch,Cafe,North Indian,35.2,2.9,None,150,50,50,0,0.0,109.27,0.0
+2025-04-12,Saturday,4,1,Lunch,Casual Dining,Snacks,28.4,10.1,Promotion,75,77,77,0,0.0,52.13,0.0
+2025-03-04,Tuesday,3,0,Breakfast,Cafe,Snacks,43.0,14.7,None,125,30,24,6,2.03,91.43,548.58
+2025-09-14,Sunday,9,1,Lunch,Quick Service,North Indian,23.3,13.8,None,125,70,52,18,6.09,61.55,1107.9
+2025-07-11,Friday,7,0,Dinner,Quick Service,South Indian,29.4,35.9,Promotion,100,58,47,11,3.39,102.64,1129.04
+2025-08-20,Wednesday,8,0,Lunch,Family Restaurant,Chinese,20.5,0.3,Festival,50,92,76,16,7.83,56.04,896.64
+2025-09-18,Thursday,9,0,Dinner,Casual Dining,Snacks,34.1,4.6,None,200,47,43,4,1.24,63.78,255.12
+2025-12-25,Thursday,12,0,Lunch,Casual Dining,South Indian,32.6,0.3,Festival,75,71,67,4,1.2,121.37,485.48
+2025-10-21,Tuesday,10,0,Dinner,Casual Dining,Snacks,26.5,9.7,None,200,47,31,16,4.65,67.34,1077.44
+2025-08-15,Friday,8,0,Dinner,Cafe,South Indian,20.3,0.0,None,200,29,23,6,1.51,115.02,690.12
